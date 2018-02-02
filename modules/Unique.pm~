@@ -1,0 +1,172 @@
+package Unique;
+
+use 5.012004;
+use strict;
+use warnings;
+
+use lib './';
+use Reader;
+use Digest::MD5 qw(md5_hex);
+use File::Basename;
+
+our @ISA = qw();
+
+our $VERSION = '0.01';
+
+
+
+##------------------------------------------------------------------------##
+
+=head1 NAME 
+
+Unique.pm
+
+=head1 DESCRIPTION
+
+Reader module for Fasta format files to make the sequences unique
+
+=head1 SYNOPSIS
+
+
+
+##------------------------------------------------------------------------##
+
+=head1 Constructor METHOD
+
+=head2 new
+
+Initialize a fasta parser object. Takes parameters in key => value format. 
+ Parameters are:
+
+  file => undef,
+  mode => '<',   # read, 
+                 # '+>': read+write (clobber file first)
+                 # '+<': read+write (append)
+                 # '>' : write (clobber file first)
+                 # '>>': write (append)
+
+=cut
+
+sub new{
+
+    my $class = shift;
+	
+	# defaults
+	my $self = {
+		file => undef,
+        filename => '',
+		out => './',
+        verbose => 0,
+        @_	# overwrite defaults
+	};
+
+	# open file in read/write mode
+	if ($self->{file}) {
+		my $fh;
+		open ( $fh, '<', $self->{file} ) || die $!;
+		$self->{fh} = $fh;
+	}
+
+    # extract the filename from path
+    my $filename = basename( $self->{file} );
+    $self->{filename} = $filename;
+
+
+	bless ($self, $class);
+
+	return $self;
+
+}
+
+
+
+sub make_unique {
+
+    my $self = shift;
+
+    # check if output already existent, if yes --> exit/skip
+    if (-f "$self->{out}") {
+        print "Skipping: Unique. "."$self->{out} already existent."."\n";
+        return ("$self->{out}");
+    }
+
+    # hash to save md5sum of seen sequences from one file
+    my %seen_sequences;
+
+    # create filehandle to write
+    my $ofh;
+    if ($self->{out} eq "-") {
+        $ofh = \*STDOUT;
+    }
+    else {
+        open($ofh, ">", "$self->{out}") or die ("Can't open output: $self->{out}");
+    }
+
+    # new instance of fasta::reader
+    my $reader = Reader->new(file => $self->{file});
+
+    # count number of unique sequences for log
+    my $unique_counter = 0;
+
+    # count number of input seuquences for log
+    my $sequence_counter = 0;
+
+    while ( my ($id,$seq,$desc) = $reader->next_seq() ) {
+
+        $sequence_counter++;
+
+        # calculate md5sum for each sequence
+        my $md5 = Digest::MD5->new;
+        $md5->add($seq);
+        my $digest = $md5->hexdigest;
+        
+        # save the md5 to the hash 'seen_sequences'
+        if (! exists $seen_sequences{$digest}) {
+            $seen_sequences{$digest}++;
+
+            # print out
+            $unique_counter++;
+            print $ofh "\>"."$unique_counter"."\_genomictraits"."\_"."$self->{filename}"."\n$seq\n";
+			 #print $ofh "\>"."$unique_counter"."\_"."$id"."\n"."$seq\n";
+            
+        }
+    }
+
+	# return  
+    return ("$self->{out}", $sequence_counter, $unique_counter);
+
+};
+
+
+# Preloaded methods go here.
+
+1;
+__END__
+# Below is stub documentation for your module. You'd better edit it!
+
+=head1 SEE ALSO
+
+	Referencedata.pm
+	Reader.pm
+	Genomictraits.pm
+	Rdp_parser.pm
+	Rdp.pm
+	Standalone_distmat.pm
+	Zscore_erf.pm
+
+
+=head1 AUTHOR
+
+Hannes Horn, <lt>Hannes.Horn@uni-wuerzburg.de<>
+
+
+=head1 COPYRIGHT AND LICENSE
+
+Copyright (C) 2013 by Hannes Horn
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.14.2 or,
+at your option, any later version of Perl 5 you may have available.
+
+
+=cut

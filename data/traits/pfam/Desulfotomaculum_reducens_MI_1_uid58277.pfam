@@ -1,0 +1,1804 @@
+PF04898	1	Glutamate synthase central domain
+PF09397	1	Ftsk gamma domain
+PF02481	2	DNA recombination-mediator protein A
+PF05362	4	Lon protease (S16) C-terminal proteolytic domain
+PF02445	1	Quinolinate synthetase A protein
+PF07085	2	DRTGG domain
+PF12644	1	Protein of unknown function (DUF3782)
+PF12850	4	Calcineurin-like phosphoesterase superfamily domain
+PF00679	4	Elongation factor G C-terminus
+PF00164	1	Ribosomal protein S12
+PF14257	2	Domain of unknown function (DUF4349)
+PF01264	1	Chorismate synthase
+PF03167	1	Uracil DNA glycosylase superfamily
+PF05191	1	Adenylate kinase, active site lid
+PF02219	2	Methylenetetrahydrofolate reductase
+PF04285	2	Protein of unknown function (DUF444)
+PF02620	1	Uncharacterized ACR, COG1399
+PF02502	1	Ribose/Galactose Isomerase
+PF01478	6	Type IV leader peptidase family
+PF04296	1	Protein of unknown function (DUF448)
+PF03727	1	Hexokinase
+PF08282	2	haloacid dehalogenase-like hydrolase
+PF13552	2	Protein of unknown function (DUF4127)
+PF02542	1	YgbB family
+PF02237	1	Biotin protein ligase C terminal domain
+PF04257	1	Exodeoxyribonuclease V, gamma subunit
+PF00289	7	Carbamoyl-phosphate synthase L chain, N-terminal domain
+PF09339	1	IclR helix-turn-helix domain
+PF01189	2	NOL1/NOP2/sun family
+PF02559	3	CarD-like/TRCF domain
+PF05187	1	Electron transfer flavoprotein-ubiquinone oxidoreductase
+PF03808	1	Glycosyl transferase WecB/TagA/CpsF family
+PF01596	1	O-methyltransferase
+PF01464	4	Transglycosylase SLT domain
+PF02629	1	CoA binding domain
+PF10672	1	S-adenosylmethionine-dependent methyltransferase
+PF00430	1	ATP synthase B/B' CF(0)
+PF00120	3	Glutamine synthetase, catalytic domain
+PF00750	1	tRNA synthetases class I (R)
+PF13342	3	C-terminal repeat of topoisomerase
+PF01300	1	Telomere recombination
+PF01653	1	NAD-dependent DNA ligase adenylation domain
+PF02866	2	lactate/malate dehydrogenase, alpha/beta C-terminal domain
+PF02719	2	Polysaccharide biosynthesis protein
+PF07876	1	Stress responsive A/B Barrel Domain
+PF07451	2	Stage V sporulation protein AD (SpoVAD)
+PF02768	1	DNA polymerase III beta subunit, C-terminal domain
+PF00701	1	Dihydrodipicolinate synthetase family
+PF13184	1	NusA-like KH domain
+PF02700	1	Phosphoribosylformylglycinamidine (FGAM) synthase
+PF04509	7	CheC-like family
+PF13941	1	MutL protein
+PF02371	14	Transposase IS116/IS110/IS902 family
+PF02730	2	Aldehyde ferredoxin oxidoreductase, N-terminal domain
+PF00581	3	Rhodanese-like domain
+PF12910	1	Antitoxin of toxin-antitoxin stability system N-terminal
+PF02108	1	Flagellar assembly protein FliH
+PF13597	2	Anaerobic ribonucleoside-triphosphate reductase
+PF12282	1	Signal transduction histidine kinase
+PF00515	5	Tetratricopeptide repeat
+PF07285	1	Protein of unknown function (DUF1444)
+PF12849	3	PBP superfamily domain
+PF00919	3	Uncharacterized protein family UPF0004
+PF01259	1	SAICAR synthetase
+PF03853	1	YjeF-related protein N-terminus
+PF02653	14	Branched-chain amino acid transport system / permease component
+PF13654	1	AAA domain
+PF02767	1	DNA polymerase III beta subunit, central domain
+PF01212	2	Beta-eliminating lyase
+PF06144	1	DNA polymerase III, delta subunit
+PF04963	1	Sigma-54 factor, core binding domain
+PF01018	1	GTP1/OBG
+PF13380	2	CoA binding domain
+PF05491	1	Holliday junction DNA helicase ruvB C-terminus
+PF13675	1	Type IV pili methyl-accepting chemotaxis transducer N-term
+PF01127	1	Succinate dehydrogenase/Fumarate reductase transmembrane subunit
+PF00420	1	NADH-ubiquinone/plastoquinone oxidoreductase chain 4L
+PF07650	2	KH domain
+PF09484	1	CRISPR-associated protein TM1802 (cas_TM1802)
+PF02978	1	Signal peptide binding domain
+PF02120	2	Flagellar hook-length control protein FliK
+PF03033	1	Glycosyltransferase family 28 N-terminal domain
+PF00217	1	ATP:guanido phosphotransferase, C-terminal catalytic domain
+PF02618	1	YceG-like family
+PF05378	3	Hydantoinase/oxoprolinase N-terminal region
+PF07907	1	YibE/F-like protein
+PF02806	1	Alpha amylase, C-terminal all-beta domain
+PF02464	1	Competence-damaged protein
+PF07510	2	Protein of unknown function (DUF1524)
+PF10991	1	Protein of unknown function (DUF2815)
+PF00275	4	EPSP synthase (3-phosphoshikimate 1-carboxyvinyltransferase)
+PF02895	1	Signal transducing histidine kinase, homodimeric domain
+PF01471	4	Putative peptidoglycan binding domain
+PF06048	1	Domain of unknown function (DUF927)
+PF09582	1	Iron only nitrogenase protein AnfO (AnfO_nitrog)
+PF01176	1	Translation initiation factor 1A / IF-1
+PF13304	2	AAA domain
+PF13520	1	Amino acid permease
+PF07508	2	Recombinase
+PF00133	4	tRNA synthetases class I (I, L, M and V)
+PF02416	2	mttA/Hcf106 family
+PF02639	1	Uncharacterized BCR, YaiI/YqxD family COG1671
+PF00005	65	ABC transporter
+PF08448	4	PAS fold
+PF00238	1	Ribosomal protein L14p/L23e
+PF03358	2	NADPH-dependent FMN reductase
+PF06689	1	ClpX C4-type zinc finger
+PF04055	31	Radical SAM superfamily
+PF01544	2	CorA-like Mg2+ transporter protein
+PF01553	1	Acyltransferase
+PF09684	1	Phage tail protein (Tail_P2_I)
+PF02163	4	Peptidase family M50
+PF04647	1	Accessory gene regulator B
+PF05130	1	FlgN protein
+PF07499	1	RuvA, C-terminal domain
+PF03129	3	Anticodon binding domain
+PF04306	1	Protein of unknown function (DUF456)
+PF13495	4	Phage integrase, N-terminal SAM-like domain
+PF07722	1	Peptidase C26
+PF11167	1	Protein of unknown function (DUF2953)
+PF13807	1	G-rich domain on putative tyrosine kinase
+PF09991	1	Predicted membrane protein (DUF2232)
+PF13193	1	Domain of unknown function (DUF4009)
+PF12127	1	SigmaW regulon antibacterial
+PF13247	3	4Fe-4S dicluster domain
+PF01396	2	Topoisomerase DNA binding C4 zinc finger
+PF00437	8	Type II/IV secretion system protein
+PF07690	10	Major Facilitator Superfamily
+PF00528	24	Binding-protein-dependent transport system inner membrane component
+PF01546	2	Peptidase family M20/M25/M40
+PF05228	2	CHASE4 domain
+PF07238	5	PilZ domain
+PF13275	1	S4 domain
+PF09190	1	DALR domain
+PF02749	1	Quinolinate phosphoribosyl transferase, N-terminal domain
+PF14284	1	PcfJ-like protein
+PF00441	5	Acyl-CoA dehydrogenase, C-terminal domain
+PF12072	1	Domain of unknown function (DUF3552)
+PF00923	1	Transaldolase
+PF03483	1	B3/4 domain
+PF00589	14	Phage integrase family
+PF08546	1	Ketopantoate reductase PanE/ApbA C terminal
+PF09851	1	Short C-terminal domain
+PF03749	1	Sugar fermentation stimulation protein
+PF01925	9	Sulfite exporter TauE/SafE
+PF00892	19	EamA-like transporter family
+PF01551	7	Peptidase family M23
+PF05681	1	Fumarate hydratase (Fumerase)
+PF01098	4	Cell cycle protein
+PF00390	1	Malic enzyme, N-terminal domain
+PF06947	1	Protein of unknown function (DUF1290)
+PF03180	1	NLPA lipoprotein
+PF00842	1	Alanine racemase, C-terminal domain
+PF14450	3	Cell division protein FtsA
+PF00378	5	Enoyl-CoA hydratase/isomerase family
+PF13291	2	ACT domain
+PF01797	1	Transposase IS200 like
+PF06827	2	Zinc finger found in FPG and IleRS
+PF02801	1	Beta-ketoacyl synthase, C-terminal domain
+PF07517	1	SecA DEAD-like domain
+PF00196	4	Bacterial regulatory proteins, luxR family
+PF08529	1	NusA N-terminal domain
+PF03646	1	FlaG protein
+PF00563	2	EAL domain
+PF01022	3	Bacterial regulatory protein, arsR family
+PF05016	1	Plasmid stabilisation system protein
+PF02127	1	Aminopeptidase I zinc metalloprotease (M18)
+PF13476	3	AAA domain
+PF02517	1	CAAX protease self-immunity
+PF01784	2	NIF3 (NGG1p interacting factor 3)
+PF02357	1	Transcription termination factor nusG
+PF01077	5	Nitrite and sulphite reductase 4Fe-4S domain
+PF11741	2	AMIN domain
+PF00572	1	Ribosomal protein L13
+PF00183	1	Hsp90 protein
+PF05168	4	HEPN domain
+PF05140	2	ResB-like family
+PF01025	2	GrpE
+PF03992	1	Antibiotic biosynthesis monooxygenase
+PF02777	2	Iron/manganese superoxide dismutases, C-terminal domain
+PF00270	11	DEAD/DEAH box helicase
+PF02779	2	Transketolase, pyrimidine binding domain
+PF07476	1	Methylaspartate ammonia-lyase C-terminus
+PF07685	4	CobB/CobQ-like glutamine amidotransferase domain
+PF02742	1	Iron dependent repressor, metal binding and dimerisation domain
+PF02575	3	YbaB/EbfC DNA-binding family
+PF13704	1	Glycosyl transferase family 2
+PF00772	1	DnaB-like helicase N terminal domain
+PF07943	4	Penicillin-binding protein 5, C-terminal domain
+PF01070	4	FMN-dependent dehydrogenase
+PF04539	4	Sigma-70 region 3
+PF01976	1	Protein of unknown function DUF116
+PF00697	1	N-(5'phosphoribosyl)anthranilate (PRA) isomerase
+PF13545	4	Crp-like helix-turn-helix domain
+PF03591	1	AzlC protein
+PF00861	1	Ribosomal L18p/L5e family
+PF04324	3	BFD-like [2Fe-2S] binding domain
+PF00664	2	ABC transporter transmembrane region
+PF01613	2	Flavin reductase like domain
+PF13181	6	Tetratricopeptide repeat
+PF01136	3	Peptidase family U32
+PF12229	2	Putative peptidoglycan binding domain
+PF02277	1	Phosphoribosyltransferase
+PF04358	1	DsrC like protein
+PF04263	1	Thiamin pyrophosphokinase, catalytic domain
+PF09983	1	Uncharacterized protein conserved in bacteria C-term(DUF2220)
+PF03841	1	L-seryl-tRNA selenium transferase
+PF14279	1	HNH endonuclease
+PF00694	2	Aconitase C-terminal domain
+PF02091	1	Glycyl-tRNA synthetase alpha subunit
+PF02735	1	Ku70/Ku80 beta-barrel domain
+PF13840	2	Family description
+PF08502	2	LeuA allosteric (dimerisation) domain
+PF02424	1	ApbE family
+PF04445	1	Putative SAM-dependent methyltransferase
+PF01037	1	AsnC family
+PF13288	1	DXP reductoisomerase C-terminal domain
+PF00989	9	PAS fold
+PF02075	1	Crossover junction endodeoxyribonuclease RuvC
+PF06750	1	Bacterial Peptidase A24 N-terminal domain
+PF00590	7	Tetrapyrrole (Corrin/Porphyrin) Methylases
+PF01078	2	Magnesium chelatase, subunit ChlI
+PF02634	1	FdhD/NarQ family
+PF02325	1	YGGT family
+PF10114	1	Sensory domain found in PocR
+PF00871	1	Acetokinase family
+PF09548	1	Stage III sporulation protein AB (spore_III_AB)
+PF04545	8	Sigma-70, region 4
+PF03534	1	Salmonella virulence plasmid 65kDa B protein
+PF06983	1	3-demethylubiquinone-9 3-methyltransferase
+PF02153	1	Prephenate dehydrogenase
+PF03773	2	Predicted permease
+PF06415	2	BPG-independent PGAM N-terminus (iPGM_N)
+PF03952	2	Enolase, N-terminal domain
+PF11146	1	Protein of unknown function (DUF2905)
+PF11588	2	Protein of unknown function (DUF3243)
+PF13384	2	Homeodomain-like domain
+PF11345	2	Protein of unknown function (DUF3147)
+PF01434	2	Peptidase family M41
+PF00484	2	Carbonic anhydrase
+PF02367	1	Uncharacterised P-loop hydrolase UPF0079
+PF13180	7	PDZ domain
+PF02579	5	Dinitrogenase iron-molybdenum cofactor
+PF00899	3	ThiF family
+PF08541	1	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+PF00329	1	Respiratory-chain NADH dehydrogenase, 30 Kd subunit
+PF01790	2	Prolipoprotein diacylglyceryl transferase
+PF10635	1	DisA bacterial checkpoint controller linker region
+PF02190	1	ATP-dependent protease La (LON) domain
+PF00171	7	Aldehyde dehydrogenase family
+PF14261	1	Domain of unknown function (DUF4351)
+PF01409	1	tRNA synthetases class II core domain (F)
+PF05582	2	YabG peptidase U57
+PF11398	1	Protein of unknown function (DUF2813)
+PF08241	1	Methyltransferase domain
+PF13401	7	AAA domain
+PF08821	1	CGGC domain
+PF00349	1	Hexokinase
+PF02843	1	Phosphoribosylglycinamide synthetase, C domain
+PF00227	1	Proteasome subunit
+PF02665	1	Nitrate reductase gamma subunit
+PF14084	1	Protein of unknown function (DUF4264)
+PF10926	1	Protein of unknown function (DUF2800)
+PF03030	1	Inorganic H+ pyrophosphatase
+PF01842	9	ACT domain
+PF07758	1	Protein of unknown function (DUF1614)
+PF04434	3	SWIM zinc finger
+PF13589	3	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+PF06605	1	Prophage endopeptidase tail
+PF12826	3	Helix-hairpin-helix motif
+PF00491	1	Arginase family
+PF00204	1	DNA gyrase B
+PF02130	1	Uncharacterized protein family UPF0054
+PF01869	5	BadF/BadG/BcrA/BcrD ATPase family
+PF05209	1	Septum formation inhibitor MinC, N-terminal domain
+PF03720	1	UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain
+PF13187	5	4Fe-4S dicluster domain
+PF00654	1	Voltage gated chloride channel
+PF01687	1	Riboflavin kinase
+PF01368	4	DHH family
+PF02561	1	Flagellar protein FliS
+PF01987	1	Mitochondrial biogenesis AIM24
+PF04563	1	RNA polymerase beta subunit
+PF00670	1	S-adenosyl-L-homocysteine hydrolase, NAD binding domain
+PF03471	1	Transporter associated domain
+PF04020	2	Membrane protein of unknown function
+PF06480	1	FtsH Extracellular
+PF02800	2	Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain
+PF01977	1	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+PF01297	1	Periplasmic solute binding protein family
+PF01799	3	[2Fe-2S] binding domain
+PF00675	1	Insulinase (Peptidase family M16)
+PF13701	11	Transposase DDE domain group 1
+PF06277	1	Ethanolamine utilisation protein EutA
+PF00271	16	Helicase conserved C-terminal domain
+PF08864	1	UPF0302 domain
+PF00248	1	Aldo/keto reductase family
+PF13177	2	DNA polymerase III, delta subunit
+PF00269	4	Small, acid-soluble spore proteins, alpha/beta type
+PF02607	1	B12 binding domain
+PF11495	1	Archaeal transcriptional regulator TrmB
+PF01814	1	Hemerythrin HHE cation binding domain
+PF00488	3	MutS domain V
+PF00908	1	dTDP-4-dehydrorhamnose 3,5-epimerase
+PF12679	1	ABC-2 family transporter protein
+PF00814	2	Glycoprotease family
+PF11731	1	Pathogenicity locus
+PF02028	2	BCCT family transporter
+PF00175	4	Oxidoreductase NAD-binding domain
+PF13565	5	Homeodomain-like domain
+PF00575	9	S1 RNA binding domain
+PF13673	1	Acetyltransferase (GNAT) domain
+PF03190	1	Protein of unknown function, DUF255
+PF12836	2	Helix-hairpin-helix motif
+PF13419	2	Haloacid dehalogenase-like hydrolase
+PF06941	1	5' nucleotidase, deoxy (Pyrimidine), cytosolic type C protein (NT5C)
+PF13237	12	4Fe-4S dicluster domain
+PF04308	1	Protein of unknown function (DUF458)
+PF03719	1	Ribosomal protein S5, C-terminal domain
+PF00091	1	Tubulin/FtsZ family, GTPase domain
+PF07833	24	Copper amine oxidase N-terminal domain
+PF02773	1	S-adenosylmethionine synthetase, C-terminal domain
+PF09925	1	Predicted membrane protein (DUF2157)
+PF13083	2	KH domain
+PF13165	1	Protein of unknown function (DUF4001)
+PF00834	1	Ribulose-phosphate 3 epimerase family
+PF01654	1	Bacterial Cytochrome Ubiquinol Oxidase
+PF01634	1	ATP phosphoribosyltransferase
+PF02915	6	Rubrerythrin
+PF12002	1	MgsA AAA+ ATPase C terminal
+PF02588	4	Uncharacterized BCR, YitT family COG1284
+PF12695	1	Alpha/beta hydrolase family
+PF00154	1	recA bacterial DNA recombination protein
+PF07730	2	Histidine kinase
+PF11738	2	Protein of unknown function (DUF3298)
+PF00128	2	Alpha amylase, catalytic domain
+PF05425	1	Copper resistance protein D
+PF14280	1	Domain of unknown function (DUF4365)
+PF02452	1	PemK-like protein
+PF09371	1	Tex-like protein N-terminal domain
+PF05833	1	Fibronectin-binding protein A N-terminus (FbpA)
+PF00745	1	Glutamyl-tRNAGlu reductase, dimerisation domain
+PF05496	2	Holliday junction DNA helicase ruvB N-terminus
+PF03354	1	Phage Terminase
+PF13659	1	Methyltransferase domain
+PF05975	1	Bacterial ABC transporter protein EcsB
+PF13549	1	ATP-grasp domain
+PF00730	1	HhH-GPD superfamily base excision DNA repair protein
+PF00366	1	Ribosomal protein S17
+PF02616	1	ScpA/B protein
+PF03466	5	LysR substrate binding domain
+PF00542	1	Ribosomal protein L7/L12 C-terminal domain
+PF00148	4	Nitrogenase component 1 type Oxidoreductase
+PF12833	2	Helix-turn-helix domain
+PF13451	2	Probable zinc-binding domain
+PF13155	1	Toprim-like
+PF01168	2	Alanine racemase, N-terminal domain
+PF02681	1	Divergent PAP2 family
+PF02938	1	GAD domain
+PF01595	1	Domain of unknown function DUF21
+PF01618	2	MotA/TolQ/ExbB proton channel family
+PF11750	1	Protein of unknown function (DUF3307)
+PF07194	1	P2 response regulator binding domain
+PF01210	1	NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus
+PF13541	3	Subunit ChlI of Mg-chelatase
+PF02833	1	DHHA2 domain
+PF01220	1	Dehydroquinase class II
+PF06470	1	SMC proteins Flexible Hinge Domain
+PF02565	1	Recombination protein O C terminal
+PF06995	1	Phage P2 GpU
+PF02729	2	Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain
+PF01943	2	Polysaccharide biosynthesis protein
+PF00358	1	phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1
+PF00009	9	Elongation factor Tu GTP binding domain
+PF01575	1	MaoC like domain
+PF13458	3	Periplasmic binding protein
+PF01833	1	IPT/TIG domain
+PF06898	1	Putative stage IV sporulation protein YqfD
+PF06675	1	Protein of unknown function (DUF1177)
+PF08291	3	Peptidase M15
+PF10369	2	Small subunit of acetolactate synthase
+PF05164	1	Cell division protein ZapA
+PF01966	20	HD domain
+PF08298	1	PrkA AAA domain
+PF02133	2	Permease for cytosine/purines, uracil, thiamine, allantoin
+PF01029	2	NusB family
+PF13485	1	Peptidase MA superfamily
+PF10145	1	Phage-related minor tail protein
+PF02660	1	Glycerol-3-phosphate acyltransferase
+PF12788	2	YmaF family
+PF07719	7	Tetratricopeptide repeat
+PF03235	2	Protein of unknown function DUF262
+PF02686	1	Glu-tRNAGln amidotransferase C subunit
+PF06421	1	GTP-binding protein LepA C-terminus
+PF01371	1	Trp repressor protein
+PF00401	1	ATP synthase, Delta/Epsilon chain, long alpha-helix domain
+PF03143	2	Elongation factor Tu C-terminal domain
+PF03840	1	Preprotein translocase SecG subunit
+PF02887	3	Pyruvate kinase, alpha/beta domain
+PF07728	2	AAA domain (dynein-related subfamily)
+PF13394	4	4Fe-4S single cluster domain
+PF07997	1	Protein of unknown function (DUF1694)
+PF00281	1	Ribosomal protein L5
+PF04865	1	Baseplate J-like protein
+PF01066	2	CDP-alcohol phosphatidyltransferase
+PF02911	1	Formyl transferase, C-terminal domain
+PF06032	3	Protein of unknown function (DUF917)
+PF07501	5	G5 domain
+PF01430	1	Hsp33 protein
+PF00687	1	Ribosomal protein L1p/L10e family
+PF01184	1	GPR1/FUN34/yaaH family
+PF00160	1	Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD
+PF00381	2	PTS HPr component phosphorylation site
+PF05239	6	PRC-barrel domain
+PF03313	1	Serine dehydratase alpha chain
+PF10040	1	Uncharacterized conserved protein (DUF2276)
+PF12399	3	Branched-chain amino acid ATP-binding cassette transporter
+PF00829	1	Ribosomal prokaryotic L21 protein
+PF02881	2	SRP54-type protein, helical bundle domain
+PF01276	2	Orn/Lys/Arg decarboxylase, major domain
+PF07702	2	UTRA domain
+PF03323	5	Bacillus/Clostridium GerA spore germination protein
+PF00929	2	Exonuclease
+PF01245	1	Ribosomal protein L19
+PF06156	1	Protein of unknown function (DUF972)
+PF01694	1	Rhomboid family
+PF02254	4	TrkA-N domain
+PF03193	2	Protein of unknown function, DUF258
+PF12822	1	Protein of unknown function (DUF3816)
+PF00237	1	Ribosomal protein L22p/L17e
+PF04093	1	rod shape-determining protein MreD
+PF13335	1	Magnesium chelatase, subunit ChlI
+PF14276	1	Domain of unknown function (DUF4363)
+PF10727	2	Rossmann-like domain
+PF01313	1	Bacterial export proteins, family 3
+PF13556	1	PucR C-terminal helix-turn-helix domain
+PF00764	1	Arginosuccinate synthase
+PF01820	2	D-ala D-ala ligase N-terminus
+PF10531	7	SLBB domain
+PF13684	1	Dihydroxyacetone kinase family
+PF00578	1	AhpC/TSA family
+PF09546	1	Stage III sporulation protein AE (spore_III_AE)
+PF01865	1	Protein of unknown function DUF47
+PF01424	1	R3H domain
+PF01633	1	Choline/ethanolamine kinase
+PF03764	2	Elongation factor G, domain IV
+PF01680	3	SOR/SNZ family
+PF01058	1	NADH ubiquinone oxidoreductase, 20 Kd subunit
+PF02146	1	Sir2 family
+PF01195	1	Peptidyl-tRNA hydrolase
+PF01326	2	Pyruvate phosphate dikinase, PEP/pyruvate binding domain
+PF00462	1	Glutaredoxin
+PF00584	1	SecE/Sec61-gamma subunits of protein translocation complex
+PF01472	1	PUA domain
+PF07676	1	WD40-like Beta Propeller Repeat
+PF01676	3	Metalloenzyme superfamily
+PF04392	3	ABC transporter substrate binding protein
+PF13280	3	WYL domain
+PF00155	9	Aminotransferase class I and II
+PF14341	1	PilX N-terminal
+PF01890	1	Cobalamin synthesis G C-terminus
+PF01888	1	CbiD
+PF12848	4	ABC transporter
+PF03807	1	NADP oxidoreductase coenzyme F420-dependent
+PF09709	1	CRISPR-associated protein (Cas_Csd1)
+PF03054	1	tRNA methyl transferase
+PF13740	1	ACT domain
+PF01406	1	tRNA synthetases class I (C) catalytic domain
+PF07561	3	Domain of Unknown Function (DUF1540)
+PF00119	1	ATP synthase A chain
+PF06725	2	3D domain
+PF01128	1	Uncharacterized protein family UPF0007
+PF03885	1	Protein of unknown function (DUF327)
+PF13439	1	Glycosyltransferase Family 4
+PF00684	1	DnaJ central domain
+PF04748	2	Divergent polysaccharide deacetylase
+PF00211	1	Adenylate and Guanylate cyclase catalytic domain
+PF04560	1	RNA polymerase Rpb2, domain 7
+PF04085	1	rod shape-determining protein MreC
+PF05157	2	Type II secretion system (T2SS), protein E, N-terminal domain
+PF05133	2	Phage portal protein, SPP1 Gp6-like
+PF00209	6	Sodium:neurotransmitter symporter family
+PF05067	3	Manganese containing catalase
+PF02092	1	Glycyl-tRNA synthetase beta subunit
+PF00312	1	Ribosomal protein S15
+PF01614	1	Bacterial transcriptional regulator
+PF02662	4	Methyl-viologen-reducing hydrogenase, delta subunit
+PF00550	1	Phosphopantetheine attachment site
+PF08445	1	FR47-like protein
+PF03462	2	PCRF domain
+PF00994	5	Probable molybdopterin binding domain
+PF01411	2	tRNA synthetases class II (A)
+PF01855	3	Pyruvate flavodoxin/ferredoxin oxidoreductase, thiamine diP-bdg
+PF08478	1	POTRA domain, FtsQ-type
+PF02566	2	OsmC-like protein
+PF01568	3	Molydopterin dinucleotide binding domain
+PF05119	1	Phage terminase, small subunit
+PF01938	6	TRAM domain
+PF10397	1	Adenylosuccinate lyase C-terminus
+PF00239	2	Resolvase, N terminal domain
+PF04367	1	Protein of unknown function (DUF502)
+PF00015	24	Methyl-accepting chemotaxis protein (MCP) signalling domain
+PF08239	3	Bacterial SH3 domain
+PF01113	1	Dihydrodipicolinate reductase, N-terminus
+PF00218	1	Indole-3-glycerol phosphate synthase
+PF11127	1	Protein of unknown function (DUF2892)
+PF10079	1	Uncharacterized protein conserved in bacteria (DUF2317)
+PF13510	4	2Fe-2S iron-sulfur cluster binding domain
+PF04350	2	Pilus assembly protein, PilO
+PF04474	1	Protein of unknown function (DUF554)
+PF02754	20	Cysteine-rich domain
+PF06130	6	Propanediol utilisation protein PduL
+PF08501	1	Shikimate dehydrogenase substrate binding domain
+PF00122	4	E1-E2 ATPase
+PF00766	4	Electron transfer flavoprotein FAD-binding domain
+PF07949	3	YbbR-like protein
+PF07521	3	RNA-metabolising metallo-beta-lactamase
+PF00425	1	chorismate binding enzyme
+PF06133	3	Protein of unknown function (DUF964)
+PF00140	1	Sigma-70 factor, region 1.2
+PF01706	1	FliG C-terminal domain
+PF05193	1	Peptidase M16 inactive domain
+PF00348	4	Polyprenyl synthetase
+PF07875	1	Coat F domain
+PF02924	1	Bacteriophage lambda head decoration protein D
+PF02446	1	4-alpha-glucanotransferase
+PF04542	12	Sigma-70 region 2
+PF04965	1	Gene 25-like lysozyme
+PF02594	1	Uncharacterised ACR, YggU family COG1872
+PF06180	1	Cobalt chelatase (CbiK)
+PF12696	2	TraM recognition site of TraD and TraG
+PF10925	2	Protein of unknown function (DUF2680)
+PF06107	1	Bacterial protein of unknown function (DUF951)
+PF01903	1	CbiX
+PF04402	1	Protein of unknown function (DUF541)
+PF00662	1	NADH-Ubiquinone oxidoreductase (complex I), chain 5 N-terminus
+PF07221	1	N-acylglucosamine 2-epimerase (GlcNAc 2-epimerase)
+PF01740	3	STAS domain
+PF00180	2	Isocitrate/isopropylmalate dehydrogenase
+PF03776	1	Septum formation topological specificity factor MinE
+PF14256	1	YwiC-like protein
+PF09578	1	Spore cortex protein YabQ (Spore_YabQ)
+PF04297	1	Putative helix-turn-helix protein, YlxM / p13 like
+PF01642	1	Methylmalonyl-CoA mutase
+PF00909	1	Ammonium Transporter Family
+PF03099	2	Biotin/lipoate A/B protein ligase family
+PF00389	1	D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain
+PF13646	2	HEAT repeats
+PF02654	1	Cobalamin-5-phosphate synthase
+PF05190	1	MutS family domain IV
+PF07136	1	Protein of unknown function (DUF1385)
+PF00623	1	RNA polymerase Rpb1, domain 2
+PF01955	1	Adenosylcobinamide amidohydrolase
+PF08545	1	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+PF02558	1	Ketopantoate reductase PanE/ApbA
+PF02548	2	Ketopantoate hydroxymethyltransferase
+PF01261	1	Xylose isomerase-like TIM barrel
+PF00380	1	Ribosomal protein S9/S16
+PF00361	3	NADH-Ubiquinone/plastoquinone (complex I), various chains
+PF00027	4	Cyclic nucleotide-binding domain
+PF02811	8	PHP domain
+PF08485	1	Polysaccharide biosynthesis protein C-terminal
+PF07498	1	Rho termination factor, N-terminal domain
+PF00158	17	Sigma-54 interaction domain
+PF04029	1	2-phosphosulpholactate phosphatase
+PF02910	2	Fumarate reductase flavoprotein C-term
+PF12116	1	Stage III sporulation protein D
+PF02515	1	CoA-transferase family III
+PF04024	1	PspC domain
+PF12784	2	PD-(D/E)XK nuclease family transposase
+PF11104	2	Competence protein A
+PF09382	1	RQC domain
+PF00936	16	BMC domain
+PF03950	1	tRNA synthetases class I (E and Q), anti-codon binding domain
+PF06245	1	Protein of unknown function (DUF1015)
+PF07969	2	Amidohydrolase family
+PF04127	1	DNA / pantothenate metabolism flavoprotein
+PF00795	3	Carbon-nitrogen hydrolase
+PF13183	13	4Fe-4S dicluster domain
+PF00106	2	short chain dehydrogenase
+PF09419	1	Mitochondrial PGP phosphatase
+PF02541	2	Ppx/GppA phosphatase family
+PF02086	1	D12 class N6 adenine-specific DNA methyltransferase
+PF00230	1	Major intrinsic protein
+PF12327	1	FtsZ family, C-terminal domain
+PF12685	1	SpoIIIAH-like protein
+PF00056	2	lactate/malate dehydrogenase, NAD binding domain
+PF07929	1	Plasmid pRiA4b ORF-3-like protein
+PF00700	2	Bacterial flagellin C-terminal helical region
+PF02743	5	Cache domain
+PF00665	12	Integrase core domain
+PF01010	1	NADH-Ubiquinone oxidoreductase (complex I) subunit C-terminus
+PF01068	1	ATP dependent DNA ligase domain
+PF13426	18	PAS domain
+PF06580	2	Histidine kinase
+PF06803	1	Protein of unknown function (DUF1232)
+PF08275	1	DNA primase catalytic core, N-terminal domain
+PF04717	1	Phage-related baseplate assembly protein
+PF00689	1	Cation transporting ATPase, C-terminus
+PF00939	4	Sodium:sulfate symporter transmembrane region
+PF01488	3	Shikimate / quinate 5-dehydrogenase
+PF00825	1	Ribonuclease P
+PF01000	1	RNA polymerase Rpb3/RpoA insert domain
+PF00478	1	IMP dehydrogenase / GMP reductase domain
+PF06763	1	Prophage minor tail protein Z (GPZ)
+PF00078	1	Reverse transcriptase (RNA-dependent DNA polymerase)
+PF05651	1	Putative sugar diacid recognition
+PF08769	2	Sporulation initiation factor Spo0A C terminal
+PF00587	3	tRNA synthetase class II core domain (G, H, P, S and T)
+PF03900	1	Porphobilinogen deaminase, C-terminal domain
+PF10458	1	Valyl tRNA synthetase tRNA binding arm
+PF00290	1	Tryptophan synthase alpha chain
+PF02954	11	Bacterial regulatory protein, Fis family
+PF02574	2	Homocysteine S-methyltransferase
+PF02734	1	DAK2 domain
+PF00082	3	Subtilase family
+PF13276	1	HTH-like domain
+PF12555	1	Thiamine pyrophosphokinase C terminal
+PF01713	1	Smr domain
+PF02272	4	DHHA1 domain
+PF08338	1	Domain of unknown function (DUF1731)
+PF02410	1	Oligomerisation domain
+PF03063	7	Prismane/CO dehydrogenase family
+PF09581	1	Stage III sporulation protein AF (Spore_III_AF)
+PF14242	2	Domain of unknown function (DUF4342)
+PF01256	1	Carbohydrate kinase
+PF08340	1	Domain of unknown function (DUF1732)
+PF00416	1	Ribosomal protein S13/S18
+PF02080	8	TrkA-C domain
+PF01554	4	MatE
+PF11871	1	Domain of unknown function (DUF3391)
+PF02625	1	XdhC and CoxI family
+PF00278	2	Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+PF13400	1	Putative Flp pilus-assembly TadE/G-like
+PF01250	1	Ribosomal protein S6
+PF13792	2	Sulfate transporter N-terminal domain with GLY motif
+PF08455	1	Bacterial SNF2 helicase associated
+PF03600	4	Citrate transporter
+PF04307	3	Predicted membrane-bound metal-dependent hydrolase (DUF457)
+PF09107	1	Elongation factor SelB, winged helix
+PF02537	2	CrcB-like protein
+PF05949	2	Bacterial protein of unknown function (DUF881)
+PF00440	5	Bacterial regulatory proteins, tetR family
+PF01926	11	50S ribosome-binding GTPase
+PF01545	3	Cation efflux family
+PF00854	1	POT family
+PF02033	1	Ribosome-binding factor A
+PF13638	1	PIN domain
+PF07973	3	Threonyl and Alanyl tRNA synthetase second additional domain
+PF04284	2	Protein of unknown function (DUF441)
+PF01242	1	6-pyruvoyl tetrahydropterin synthase
+PF00111	4	2Fe-2S iron-sulfur cluster binding domain
+PF09992	1	Predicted periplasmic protein (DUF2233)
+PF01339	1	CheB methylesterase
+PF04657	1	Protein of unknown function, DUF606
+PF13856	1	ATP-binding sugar transporter from pro-phage
+PF08032	2	RNA 2'-O ribose methyltransferase substrate binding
+PF13263	1	PHP-associated
+PF02637	1	GatB domain
+PF02901	6	Pyruvate formate lyase
+PF03484	1	tRNA synthetase B5 domain
+PF03741	3	Integral membrane protein TerC family
+PF03721	1	UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+PF06089	1	L-asparaginase II
+PF09186	1	Domain of unknown function (DUF1949)
+PF03477	2	ATP cone domain
+PF08676	1	MutL C terminal dimerisation domain
+PF03255	1	Acetyl co-enzyme A carboxylase carboxyltransferase alpha subunit
+PF13382	1	Adenine deaminase C-terminal domain
+PF02591	1	Putative zinc ribbon domain
+PF02782	1	FGGY family of carbohydrate kinases, C-terminal domain
+PF02403	1	Seryl-tRNA synthetase N-terminal domain
+PF02913	1	FAD linked oxidases, C-terminal domain
+PF09608	1	Putative transmembrane protein (Alph_Pro_TM)
+PF01881	1	CRISPR associated protein Cas6
+PF13406	1	Transglycosylase SLT domain
+PF02706	1	Chain length determinant protein
+PF10431	3	C-terminal, D2-small domain, of ClpB protein
+PF02659	4	Domain of unknown function DUF
+PF04002	2	RadC-like JAB domain
+PF13835	1	Domain of unknown function (DUF4194)
+PF01969	2	Protein of unknown function DUF111
+PF00453	1	Ribosomal protein L20
+PF01509	1	TruB family pseudouridylate synthase (N terminal domain)
+PF00999	1	Sodium/hydrogen exchanger family
+PF01564	2	Spermine/spermidine synthase
+PF09835	1	Uncharacterized protein conserved in bacteria (DUF2062)
+PF01502	1	Phosphoribosyl-AMP cyclohydrolase
+PF02687	4	FtsX-like permease family
+PF02562	2	PhoH-like protein
+PF00291	10	Pyridoxal-phosphate dependent enzyme
+PF01061	1	ABC-2 type transporter
+PF02049	1	Flagellar hook-basal body complex protein FliE
+PF01149	1	Formamidopyrimidine-DNA glycosylase N-terminal domain
+PF00830	1	Ribosomal L28 family
+PF01746	1	tRNA (Guanine-1)-methyltransferase
+PF03711	2	Orn/Lys/Arg decarboxylase, C-terminal domain
+PF13481	1	AAA domain
+PF00215	1	Orotidine 5'-phosphate decarboxylase / HUMPS family
+PF00253	1	Ribosomal protein S14p/S29e
+PF13700	1	Domain of unknown function (DUF4158)
+PF01978	1	Sugar-specific transcriptional regulator TrmB
+PF13950	1	UDP-glucose 4-epimerase C-term subunit
+PF02899	5	Phage integrase, N-terminal SAM-like domain
+PF13578	1	Methyltransferase domain
+PF13566	1	Domain of unknown function (DUF4130
+PF04997	1	RNA polymerase Rpb1, domain 1
+PF02737	4	3-hydroxyacyl-CoA dehydrogenase, NAD binding domain
+PF00707	1	Translation initiation factor IF-3, C-terminal domain
+PF02001	2	Protein of unknown function  DUF134
+PF12727	2	PBP superfamily domain
+PF10662	2	Ethanolamine utilisation - propanediol utilisation
+PF08299	1	Bacterial dnaA protein helix-turn-helix
+PF09571	1	XcyI restriction endonuclease
+PF02142	5	MGS-like domain
+PF12705	3	PD-(D/E)XK nuclease superfamily
+PF13192	2	Thioredoxin domain
+PF03480	2	Bacterial extracellular solute-binding protein, family 7
+PF03819	5	MazG nucleotide pyrophosphohydrolase domain
+PF13519	1	von Willebrand factor type A domain
+PF00035	1	Double-stranded RNA binding motif
+PF09924	1	Uncharacterized conserved protein (DUF2156)
+PF01205	1	Uncharacterized protein family UPF0029
+PF04309	2	Glycerol-3-phosphate responsive antiterminator
+PF01416	2	tRNA pseudouridine synthase
+PF00176	4	SNF2 family N-terminal domain
+PF01728	1	FtsJ-like methyltransferase
+PF10031	1	Small integral membrane protein (DUF2273)
+PF00831	1	Ribosomal L29 protein
+PF00535	18	Glycosyl transferase family 2
+PF05137	2	Fimbrial assembly protein (PilN)
+PF00990	14	GGDEF domain
+PF09106	1	Elongation factor SelB, winged helix
+PF13607	1	Succinyl-CoA ligase like flavodoxin domain
+PF04760	2	Translation initiation factor IF-2, N-terminal region
+PF01050	2	Mannose-6-phosphate isomerase
+PF02152	1	Dihydroneopterin aldolase
+PF02863	1	Arginine repressor, C-terminal domain
+PF01663	5	Type I phosphodiesterase / nucleotide pyrophosphatase
+PF02569	2	Pantoate-beta-alanine ligase
+PF02545	1	Maf-like protein
+PF00070	17	Pyridine nucleotide-disulphide oxidoreductase
+PF13343	1	Bacterial extracellular solute-binding protein
+PF12706	2	Beta-lactamase superfamily domain
+PF03951	3	Glutamine synthetase, beta-Grasp domain
+PF05065	1	Phage capsid family
+PF01425	1	Amidase
+PF12837	2	4Fe-4S binding domain
+PF00406	1	Adenylate kinase
+PF02578	1	Multi-copper polyphenol oxidoreductase laccase
+PF12500	1	Protein of unknown function (DUF3706)
+PF02322	1	Cytochrome oxidase subunit II
+PF00749	2	tRNA synthetases class I (E and Q), catalytic domain
+PF07282	1	Putative transposase DNA-binding domain
+PF00483	9	Nucleotidyl transferase
+PF05598	2	Transposase domain (DUF772)
+PF08353	1	Domain of unknown function (DUF1727)
+PF03946	1	Ribosomal protein L11, N-terminal domain
+PF04468	1	PSP1 C-terminal conserved region
+PF01791	1	DeoC/LacD family aldolase
+PF01255	2	Putative undecaprenyl diphosphate synthase
+PF13542	1	Helix-turn-helix domain of transposase family ISL3
+PF02787	3	Carbamoyl-phosphate synthetase large chain, oligomerisation domain
+PF04983	1	RNA polymerase Rpb1, domain 3
+PF02632	1	BioY family
+PF10263	1	SprT-like family
+PF10719	1	Late competence development protein ComFB
+PF05580	1	SpoIVB peptidase S55
+PF01808	1	AICARFT/IMPCHase bienzyme
+PF03023	1	MviN-like protein
+PF01578	1	Cytochrome C assembly protein
+PF07724	3	AAA domain (Cdc48 subfamily)
+PF00828	1	Ribosomal protein L18e/L15
+PF13459	1	4Fe-4S single cluster domain
+PF12838	15	4Fe-4S dicluster domain
+PF01367	1	5'-3' exonuclease, C-terminal SAM fold
+PF04982	1	HPP family
+PF01106	2	NifU-like domain
+PF04326	1	Divergent AAA domain
+PF04073	3	YbaK / prolyl-tRNA synthetases associated domain
+PF02436	1	Conserved carboxylase domain
+PF00205	2	Thiamine pyrophosphate enzyme, central domain
+PF01330	1	RuvA N terminal domain
+PF13393	2	Histidyl-tRNA synthetase
+PF07664	4	Ferrous iron transport protein B C terminus
+PF07872	3	Protein of unknown function (DUF1659)
+PF01230	2	HIT domain
+PF13186	3	Domain of unknown function (DUF4008)
+PF01610	1	Transposase
+PF01209	2	ubiE/COQ5 methyltransferase family
+PF00586	5	AIR synthase related protein, N-terminal domain
+PF02666	1	Phosphatidylserine decarboxylase
+PF00753	9	Metallo-beta-lactamase superfamily
+PF01936	1	NYN domain
+PF13292	1	1-deoxy-D-xylulose-5-phosphate synthase
+PF05222	1	Alanine dehydrogenase/PNT, N-terminal domain
+PF04461	1	Protein of unknown function (DUF520)
+PF07694	1	5TMR of 5TMR-LYT
+PF08267	1	Cobalamin-independent synthase, N-terminal domain
+PF06081	1	Bacterial protein of unknown function (DUF939)
+PF00333	1	Ribosomal protein S5, N-terminal domain
+PF12911	3	N-terminal TM domain of oligopeptide transport permease C
+PF14330	1	Domain of unknown function (DUF4387)
+PF01132	1	Elongation factor P (EF-P) OB domain
+PF03538	1	Salmonella virulence plasmid 28.1kDa A protein
+PF00444	1	Ribosomal protein L36
+PF00496	4	Bacterial extracellular solute-binding proteins, family 5 Middle
+PF01314	2	Aldehyde ferredoxin oxidoreductase, domains 2 & 3
+PF01450	1	Acetohydroxy acid isomeroreductase, catalytic domain
+PF04232	1	Stage V sporulation protein S (SpoVS)
+PF06962	1	Putative rRNA methylase
+PF10050	1	Predicted metal-binding protein (DUF2284)
+PF08334	1	Type II secretion system (T2SS), protein G
+PF03320	1	Bacterial fructose-1,6-bisphosphatase, glpX-encoded
+PF08279	3	HTH domain
+PF13730	1	Helix-turn-helix domain
+PF02880	5	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III
+PF03772	1	Competence protein
+PF01479	7	S4 domain
+PF02096	1	60Kd inner membrane protein
+PF03118	1	Bacterial RNA polymerase, alpha chain C terminal domain
+PF00579	2	tRNA synthetases class I (W and Y)
+PF01702	1	Queuine tRNA-ribosyltransferase
+PF01266	4	FAD dependent oxidoreductase
+PF01192	1	RNA polymerase Rpb6
+PF01225	3	Mur ligase family, catalytic domain
+PF02571	1	Precorrin-6x reductase CbiJ/CobK
+PF12965	1	Domain of unknown function (DUF3854)
+PF00850	1	Histone deacetylase domain
+PF11897	2	Protein of unknown function (DUF3417)
+PF13403	1	Hint domain
+PF03447	1	Homoserine dehydrogenase, NAD binding domain
+PF02602	1	Uroporphyrinogen-III synthase HemD
+PF01709	1	Transcriptional regulator
+PF01041	3	DegT/DnrJ/EryC1/StrS aminotransferase family
+PF01862	1	Pyruvoyl-dependent arginine decarboxylase (PvlArgDC)
+PF09547	1	Stage IV sporulation protein A (spore_IV_A)
+PF01118	2	Semialdehyde dehydrogenase, NAD binding domain
+PF01751	5	Toprim domain
+PF12392	1	Collagenase
+PF02661	3	Fic/DOC family
+PF00467	2	KOW motif
+PF14343	1	PrcB C-terminal
+PF00768	5	D-alanyl-D-alanine carboxypeptidase
+PF10646	1	Sporulation and spore germination
+PF12797	1	4Fe-4S binding domain
+PF12544	2	Lysine-2,3-aminomutase
+PF03956	2	Membrane protein of unknown function (DUF340)
+PF01590	1	GAF domain
+PF05534	1	HicB family
+PF00953	3	Glycosyl transferase family 4
+PF06969	1	HemN C-terminal domain
+PF02873	1	UDP-N-acetylenolpyruvoylglucosamine reductase, C-terminal domain
+PF02844	1	Phosphoribosylglycinamide synthetase, N domain
+PF13386	1	Family description
+PF02675	2	S-adenosylmethionine decarboxylase
+PF07516	1	SecA Wing and Scaffold domain
+PF03861	4	ANTAR domain
+PF07905	1	Purine catabolism regulatory protein-like family
+PF09021	1	HutP
+PF01325	1	Iron dependent repressor, N-terminal DNA binding domain
+PF00294	1	pfkB family carbohydrate kinase
+PF09670	1	CRISPR-associated protein (Cas_Cas02710)
+PF03845	6	Spore germination protein
+PF01645	2	Conserved region in glutamate synthase
+PF03963	1	Flagellar hook capping protein - N-terminal region
+PF13537	2	Glutamine amidotransferase domain
+PF00152	3	tRNA synthetases class II (D, K and N)
+PF02621	2	Menaquinone biosynthesis
+PF00731	2	AIR carboxylase
+PF07228	3	Stage II sporulation protein E (SpoIIE)
+PF03725	3	3' exoribonuclease family, domain 2
+PF03692	4	Flagellin N-methylase
+PF05977	1	Transmembrane secretion effector
+PF13620	2	Carboxypeptidase regulatory-like domain
+PF04101	2	Glycosyltransferase family 28 C-terminal domain
+PF03652	1	Uncharacterised protein family (UPF0081)
+PF03949	1	Malic enzyme, NAD binding domain
+PF01558	3	Pyruvate ferredoxin/flavodoxin oxidoreductase
+PF02397	2	Bacterial sugar transferase
+PF03916	2	Polysulphide reductase, NrfD
+PF10764	1	Inhibitor of sigma-G Gin
+PF00465	6	Iron-containing alcohol dehydrogenase
+PF02441	3	Flavoprotein
+PF06971	1	Putative DNA-binding protein N-terminus
+PF02774	2	Semialdehyde dehydrogenase, dimerisation domain
+PF06429	5	Flagellar basal body rod FlgEFG protein C-terminal
+PF12945	1	Flagellar protein YcgR
+PF03372	2	Endonuclease/Exonuclease/phosphatase family
+PF04015	1	Domain of unknown function (DUF362)
+PF12787	1	EcsC protein family
+PF00698	1	Acyl transferase domain
+PF13558	1	Putative exonuclease SbcCD, C subunit
+PF01944	2	Integral membrane protein DUF95
+PF13243	1	Prenyltransferase-like
+PF02670	1	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+PF00347	2	Ribosomal protein L6
+PF00890	4	FAD binding domain
+PF00448	3	SRP54-type protein, GTPase domain
+PF06050	3	2-hydroxyglutaryl-CoA dehydratase, D-component
+PF01649	1	Ribosomal protein S20
+PF03948	1	Ribosomal protein L9, C-terminal domain
+PF00498	2	FHA domain
+PF13491	1	Domain of unknown function (DUF4117)
+PF13686	1	DsrE/DsrF/DrsH-like family
+PF03793	5	PASTA domain
+PF07441	1	SigmaK-factor processing regulatory protein BofA
+PF09977	1	Putative Tad-like Flp pilus-assembly
+PF02378	1	Phosphotransferase system, EIIC
+PF00588	3	SpoU rRNA Methylase family
+PF08207	1	Elongation factor P (EF-P) KOW-like domain
+PF01134	2	Glucose inhibited division protein A
+PF14306	1	PUA-like domain
+PF02342	4	Bacterial stress protein
+PF01514	1	Secretory protein of YscJ/FliF family
+PF02580	1	D-Tyr-tRNA(Tyr) deacylase
+PF09195	1	Restriction endonuclease BglII
+PF00075	1	RNase H
+PF12697	1	Alpha/beta hydrolase family
+PF09424	1	Yqey-like protein
+PF01548	14	Transposase
+PF13286	1	Phosphohydrolase-associated domain
+PF07497	1	Rho termination factor, RNA-binding domain
+PF02900	1	Catalytic LigB subunit of aromatic ring-opening dioxygenase
+PF01812	1	5-formyltetrahydrofolate cyclo-ligase family
+PF00912	3	Transglycosylase
+PF01116	1	Fructose-bisphosphate aldolase class-II
+PF03780	2	Asp23 family
+PF02596	2	Uncharacterised ArCR, COG2043
+PF01386	1	Ribosomal L25p family
+PF09551	1	Stage II sporulation protein R (spore_II_R)
+PF03308	1	ArgK protein
+PF00306	2	ATP synthase alpha/beta chain, C terminal domain
+PF00146	1	NADH dehydrogenase
+PF00293	3	NUDIX domain
+PF03413	1	Peptidase propeptide and YPEB domain
+PF00742	1	Homoserine dehydrogenase
+PF12831	5	FAD dependent oxidoreductase
+PF01512	6	Respiratory-chain NADH dehydrogenase 51 Kd subunit
+PF06798	1	PrkA serine protein kinase C-terminal domain
+PF01757	2	Acyltransferase family
+PF00986	1	DNA gyrase B subunit, carboxyl terminus
+PF02683	2	Cytochrome C biogenesis protein transmembrane region
+PF00367	1	phosphotransferase system, EIIB
+PF01503	1	Phosphoribosyl-ATP pyrophosphohydrolase
+PF00793	3	DAHP synthetase I family
+PF00881	3	Nitroreductase family
+PF00181	1	Ribosomal Proteins L2, RNA binding domain
+PF05237	1	MoeZ/MoeB domain
+PF03237	2	Terminase-like family
+PF02775	5	Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+PF00692	1	dUTPase
+PF03423	1	Carbohydrate binding domain (family 25)
+PF03990	2	Domain of unknown function (DUF348)
+PF03481	1	Putative GTP-binding controlling metal-binding
+PF00044	2	Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain
+PF12730	1	ABC-2 family transporter protein
+PF02934	1	GatB/GatE catalytic domain
+PF11007	1	Spore coat associated protein JA (CotJA)
+PF01035	1	6-O-methylguanine DNA methyltransferase, DNA binding domain
+PF02878	5	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I
+PF13472	1	GDSL-like Lipase/Acylhydrolase family
+PF02912	1	Aminoacyl tRNA synthetase class II, N-terminal domain
+PF07977	1	FabA-like domain
+PF00570	1	HRDC domain
+PF08905	1	Domain of unknown function (DUF1850)
+PF09369	1	Domain of unknown function (DUF1998)
+PF01795	1	MraW methylase family
+PF01311	1	Bacterial export proteins, family 1
+PF00162	2	Phosphoglycerate kinase
+PF00334	1	Nucleoside diphosphate kinase
+PF00391	5	PEP-utilising enzyme, mobile domain
+PF13483	1	Beta-lactamase superfamily domain
+PF00471	1	Ribosomal protein L33
+PF13478	1	XdhC Rossmann domain
+PF09560	1	Sporulation protein YunB (Spo_YunB)
+PF02826	2	D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+PF01668	1	SmpB protein
+PF03602	1	Conserved hypothetical protein 95
+PF13413	1	Helix-turn-helix domain
+PF13727	2	CoA-binding domain
+PF07811	1	TadE-like protein
+PF04851	5	Type III restriction enzyme, res subunit
+PF09084	5	NMT1/THI5 like
+PF13249	1	Prenyltransferase-like
+PF03862	4	SpoVA protein
+PF05384	1	Sensor protein DegS
+PF14335	1	Domain of unknown function (DUF4391)
+PF02739	1	5'-3' exonuclease, N-terminal resolvase-like domain
+PF00926	2	3,4-dihydroxy-2-butanone 4-phosphate synthase
+PF00300	2	Histidine phosphatase superfamily (branch 1)
+PF02311	1	AraC-like ligand binding domain
+PF07866	1	Protein of unknown function (DUF1653)
+PF04286	2	Protein of unknown function (DUF445)
+PF09587	1	Bacterial capsule synthesis protein PGA_cap
+PF04060	1	Putative Fe-S cluster
+PF11148	3	Protein of unknown function (DUF2922)
+PF07729	4	FCD domain
+PF01584	3	CheW-like domain
+PF03319	2	Ethanolamine utilisation protein EutN/carboxysome
+PF09345	1	Domain of unknown function (DUF1987)
+PF00474	3	Sodium:solute symporter family
+PF00231	1	ATP synthase
+PF01832	2	Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+PF02151	4	UvrB/uvrC motif
+PF00877	2	NlpC/P60 family
+PF13739	1	Domain of unknown function (DUF4163)
+PF00327	1	Ribosomal protein L30p/L7e
+PF02321	2	Outer membrane efflux protein
+PF06733	1	DEAD_2
+PF00177	1	Ribosomal protein S7p/S5e
+PF02081	1	Tryptophan RNA-binding attenuator protein
+PF00121	2	Triosephosphate isomerase
+PF02553	1	Cobalt transport protein component CbiN
+PF01121	1	Dephospho-CoA kinase
+PF03169	1	OPT oligopeptide transporter protein
+PF00408	4	Phosphoglucomutase/phosphomannomutase, C-terminal domain
+PF00206	2	Lyase
+PF03419	1	Sporulation factor SpoIIGA
+PF00677	2	Lumazine binding domain
+PF03119	1	NAD-dependent DNA ligase C4 zinc finger domain
+PF01315	3	Aldehyde oxidase and xanthine dehydrogenase, a/b hammerhead domain
+PF13603	1	Leucyl-tRNA synthetase, Domain 2
+PF01612	1	3'-5' exonuclease
+PF08486	2	Stage II sporulation protein
+PF12686	1	Protein of unknown function (DUF3800)
+PF03450	3	CO dehydrogenase flavoprotein C-terminal domain
+PF01196	1	Ribosomal protein L17
+PF05504	4	Spore germination B3/ GerAC like, C-terminal
+PF13710	2	ACT domain
+PF11761	1	Cobalamin biosynthesis central region
+PF00639	1	PPIC-type PPIASE domain
+PF02550	5	Acetyl-CoA hydrolase/transferase N-terminal domain
+PF06325	1	Ribosomal protein L11 methyltransferase (PrmA)
+PF01202	2	Shikimate kinase
+PF12256	1	Insecticide toxin TcdB middle/N-terminal region
+PF09901	1	Uncharacterized protein conserved in bacteria (DUF2128)
+PF00166	1	Chaperonin 10 Kd subunit
+PF02679	1	(2R)-phospho-3-sulfolactate synthase (ComA)
+PF05958	1	tRNA (Uracil-5-)-methyltransferase
+PF02627	1	Carboxymuconolactone decarboxylase family
+PF02770	5	Acyl-CoA dehydrogenase, middle domain
+PF02547	1	Queuosine biosynthesis protein
+PF01891	2	Cobalt uptake substrate-specific transmembrane region
+PF02223	1	Thymidylate kinase
+PF01565	2	FAD binding domain
+PF06018	1	CodY GAF-like domain
+PF03006	1	Haemolysin-III related
+PF01743	2	Poly A polymerase head domain
+PF00905	7	Penicillin binding protein transpeptidase domain
+PF01934	2	Protein of unknown function DUF86
+PF01432	1	Peptidase family M3
+PF07885	2	Ion channel
+PF12804	4	MobA-like NTP transferase domain
+PF00224	2	Pyruvate kinase, barrel domain
+PF13407	2	Periplasmic binding protein domain
+PF05698	1	Bacterial trigger factor protein (TF) C-terminus
+PF01370	10	NAD dependent epimerase/dehydratase family
+PF05199	1	GMC oxidoreductase
+PF01594	2	Domain of unknown function DUF20
+PF13379	2	NMT1-like family
+PF09723	1	Zinc ribbon domain
+PF09997	1	Predicted membrane protein (DUF2238)
+PF04998	1	RNA polymerase Rpb1, domain 5
+PF03668	1	P-loop ATPase protein family
+PF00072	37	Response regulator receiver domain
+PF02245	1	Methylpurine-DNA glycosylase (MPG)
+PF11611	1	Domain of unknown function (DUF4352)
+PF05524	1	PEP-utilising enzyme, N-terminal
+PF02861	2	Clp amino terminal domain
+PF06838	1	Aluminium resistance protein
+PF01288	1	7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase (HPPK)
+PF00596	1	Class II Aldolase and Adducin N-terminal domain
+PF04025	1	Domain of unknown function (DUF370)
+PF00573	1	Ribosomal protein L4/L1 family
+PF00107	1	Zinc-binding dehydrogenase
+PF02540	3	NAD synthase
+PF01016	1	Ribosomal L27 protein
+PF00580	2	UvrD/REP helicase N-terminal domain
+PF05683	1	Fumarase C-terminus
+PF00109	1	Beta-ketoacyl synthase, N-terminal domain
+PF04070	1	Domain of unknown function (DUF378)
+PF01402	1	Ribbon-helix-helix protein, copG family
+PF01048	2	Phosphorylase superfamily
+PF10412	1	Type IV secretion-system coupling protein DNA-binding domain
+PF00258	1	Flavodoxin
+PF09350	1	Domain of unknown function (DUF1992)
+PF05345	1	Putative Ig domain
+PF04561	2	RNA polymerase Rpb2, domain 2
+PF01523	2	Putative modulator of DNA gyrase
+PF00849	6	RNA pseudouridylate synthase
+PF05136	1	Phage portal protein, lambda family
+PF01012	8	Electron transfer flavoprotein domain
+PF00874	2	PRD domain
+PF12704	3	MacB-like periplasmic core domain
+PF00313	4	'Cold-shock' DNA-binding domain
+PF01726	1	LexA DNA binding domain
+PF10138	2	Tellurium resistance protein
+PF09579	1	Sporulation protein YtfJ (Spore_YtfJ)
+PF02504	1	Fatty acid synthesis protein
+PF00081	1	Iron/manganese superoxide dismutases, alpha-hairpin domain
+PF05173	1	Dihydrodipicolinate reductase, C-terminus
+PF02690	6	Na+/Pi-cotransporter
+PF03120	1	NAD-dependent DNA ligase OB-fold domain
+PF12834	1	Phage integrase, N-terminal
+PF06866	1	Protein of unknown function (DUF1256)
+PF04069	3	Substrate binding domain of ABC-type glycine betaine transport system
+PF00398	1	Ribosomal RNA adenine dimethylase
+PF01008	2	Initiation factor 2 subunit family
+PF04294	4	VanW like protein
+PF03061	2	Thioesterase superfamily
+PF10087	1	Uncharacterized protein conserved in bacteria (DUF2325)
+PF01219	1	Prokaryotic diacylglycerol kinase
+PF04079	1	Putative transcriptional regulators (Ypuh-like)
+PF00885	1	6,7-dimethyl-8-ribityllumazine synthase
+PF01165	1	Ribosomal protein S21
+PF08984	2	Domain of unknown function (DUF1858)
+PF03461	1	TRCF domain
+PF13677	2	Membrane MotB of proton-channel complex MotA/MotB
+PF03681	3	Uncharacterised protein family (UPF0150)
+PF01475	2	Ferric uptake regulator family
+PF05709	1	Phage tail protein
+PF05103	2	DivIVA protein
+PF04964	1	Flp/Fap pilin component
+PF01656	14	CobQ/CobB/MinD/ParA nucleotide binding domain
+PF00156	10	Phosphoribosyl transferase domain
+PF00551	2	Formyl transferase
+PF01627	2	Hpt domain
+PF13650	1	Aspartyl protease
+PF06560	1	Glucose-6-phosphate isomerase (GPI)
+PF02823	1	ATP synthase, Delta/Epsilon chain, beta-sandwich domain
+PF00188	3	Cysteine-rich secretory protein family
+PF01174	1	SNO glutamine amidotransferase family
+PF03734	4	L,D-transpeptidase catalytic domain
+PF03473	1	MOSC domain
+PF09932	1	Uncharacterized conserved protein (DUF2164)
+PF00468	1	Ribosomal protein L34
+PF02417	1	Chromate transporter
+PF00142	1	4Fe-4S iron sulfur cluster binding proteins, NifH/frxC family
+PF05226	1	CHASE2 domain
+PF01661	1	Macro domain
+PF00725	4	3-hydroxyacyl-CoA dehydrogenase, C-terminal domain
+PF07478	1	D-ala D-ala ligase C-terminus
+PF01257	6	Respiratory-chain NADH dehydrogenase 24 Kd subunit
+PF01699	2	Sodium/calcium exchanger protein
+PF05690	1	Thiazole biosynthesis protein ThiG
+PF09334	1	tRNA synthetases class I (M)
+PF02874	3	ATP synthase alpha/beta family, beta-barrel domain
+PF04754	1	Putative transposase, YhgA-like
+PF12909	1	Protein of unknown function (DUF3832)
+PF02674	1	Colicin V production protein
+PF00202	3	Aminotransferase class-III
+PF12698	3	ABC-2 family transporter protein
+PF13487	5	HD domain
+PF00475	1	Imidazoleglycerol-phosphate dehydratase
+PF00893	2	Small Multidrug Resistance protein
+PF05000	1	RNA polymerase Rpb1, domain 4
+PF00297	1	Ribosomal protein L3
+PF13307	1	Helicase C-terminal domain
+PF03065	1	Glycosyl hydrolase family 57
+PF01555	6	DNA methylase
+PF01968	4	Hydantoinase/oxoprolinase
+PF00712	1	DNA polymerase III beta subunit, N-terminal domain
+PF02803	5	Thiolase, C-terminal domain
+PF05866	1	Endodeoxyribonuclease RusA
+PF00324	3	Amino acid permease
+PF11202	1	Protein of unknown function (DUF2983)
+PF01026	2	TatD related DNase
+PF01451	1	Low molecular weight phosphotyrosine protein phosphatase
+PF13361	2	UvrD-like helicase C-terminal domain
+PF04893	1	Yip1 domain
+PF13536	1	Multidrug resistance efflux transporter
+PF08483	4	IstB-like ATP binding N-terminal
+PF03485	1	Arginyl tRNA synthetase N terminal domain
+PF01243	1	Pyridoxamine 5'-phosphate oxidase
+PF04932	1	O-Antigen ligase
+PF00466	1	Ribosomal protein L10
+PF01119	1	DNA mismatch repair protein, C-terminal domain
+PF02538	1	Hydantoinase B/oxoprolinase
+PF04404	1	ERF superfamily
+PF02590	1	Predicted SPOUT methyltransferase
+PF06574	1	FAD synthetase
+PF01522	6	Polysaccharide deacetylase
+PF07287	2	Protein of unknown function (DUF1446)
+PF00595	1	PDZ domain (Also known as DHR or GLGF)
+PF00562	1	RNA polymerase Rpb2, domain 6
+PF04977	2	Septum formation initiator
+PF01138	3	3' exoribonuclease family, domain 1
+PF06949	1	Protein of unknown function (DUF1292)
+PF02650	1	Sporulation Regulator WhiA C terminal domain
+PF08345	1	Flagellar M-ring protein C-terminal
+PF00384	4	Molybdopterin oxidoreductase
+PF00534	9	Glycosyl transferases group 1
+PF08264	4	Anticodon-binding domain of tRNA
+PF01725	1	Ham1 family
+PF08544	3	GHMP kinases C terminal
+PF08921	1	Domain of unknown function (DUF1904)
+PF05673	1	Protein of unknown function (DUF815)
+PF04265	1	Thiamin pyrophosphokinase, vitamin B1 binding domain
+PF09210	1	Domain of unknown function (DUF1957)
+PF03755	1	YicC-like family, N-terminal region
+PF01783	1	Ribosomal L32p protein family
+PF01131	4	DNA topoisomerase
+PF05221	1	S-adenosyl-L-homocysteine hydrolase
+PF02073	4	Thermophilic metalloprotease (M29)
+PF13328	1	HD domain
+PF11760	1	Cobalamin synthesis G N-terminal
+PF07697	1	7TM-HD extracellular
+PF00118	2	TCP-1/cpn60 chaperonin family
+PF02623	1	FliW protein
+PF01527	4	Transposase
+PF03748	1	Flagellar basal body-associated protein FliL
+PF07991	1	Acetohydroxy acid isomeroreductase, catalytic domain
+PF02021	1	Uncharacterised protein family UPF0102
+PF11490	1	DNA polymerase III polC-type N-terminus
+PF12642	1	Conjugative transposon protein TcpC
+PF03787	1	RAMP superfamily
+PF02401	1	LytB protein
+PF02355	2	Protein export membrane protein
+PF01381	23	Helix-turn-helix
+PF13420	1	Acetyltransferase (GNAT) domain
+PF11068	1	Protein of unknown function (DUF2869)
+PF00916	2	Sulfate transporter family
+PF01071	1	Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain
+PF00342	1	Phosphoglucose isomerase
+PF03315	1	Serine dehydratase beta chain
+PF06686	3	Stage III sporulation protein AC/AD protein family
+PF01765	1	Ribosome recycling factor
+PF00690	1	Cation transporter/ATPase, N-terminus
+PF00977	2	Histidine biosynthesis protein
+PF03864	1	Phage major capsid protein E
+PF10035	3	Uncharacterized protein conserved in bacteria (DUF2179)
+PF09148	1	Domain of unknown function (DUF1934)
+PF13205	1	Bacterial Ig-like domain
+PF00069	2	Protein kinase domain
+PF00344	1	SecY translocase
+PF01180	1	Dihydroorotate dehydrogenase
+PF01863	1	Protein of unknown function DUF45
+PF00364	1	Biotin-requiring enzyme
+PF13404	1	AsnC-type helix-turn-helix domain
+PF13277	1	YmdB-like protein
+PF09719	1	Putative redox-active protein (C_GCAxxG_C_C)
+PF08812	1	YtxC-like family
+PF01042	5	Endoribonuclease L-PSP
+PF03458	2	UPF0126 domain
+PF13147	1	Amidohydrolase
+PF03775	2	Septum formation inhibitor MinC, C-terminal domain
+PF03147	1	Ferredoxin-fold anticodon binding domain
+PF06570	1	Protein of unknown function (DUF1129)
+PF02885	3	Glycosyl transferase family, helical bundle domain
+PF00301	1	Rubredoxin
+PF10105	1	Uncharacterized protein conserved in bacteria (DUF2344)
+PF04984	1	Phage tail sheath protein
+PF07454	2	Stage II sporulation protein P (SpoIIP)
+PF01734	1	Patatin-like phospholipase
+PF04293	1	SpoVR like protein
+PF03454	2	MoeA C-terminal region (domain IV)
+PF00941	3	FAD binding domain in molybdopterin dehydrogenase
+PF03618	1	Kinase/pyrophosphorylase
+PF04551	1	GcpE protein
+PF02786	7	Carbamoyl-phosphate synthase L chain, ATP binding domain
+PF02347	2	Glycine cleavage system P-protein
+PF10588	4	NADH-ubiquinone oxidoreductase-G iron-sulfur binding region
+PF02965	1	Vitamin B12 dependent methionine synthase, activation domain
+PF09383	2	NIL domain
+PF06249	2	Ethanolamine utilisation protein EutQ
+PF02457	2	DisA bacterial checkpoint controller nucleotide-binding
+PF03979	1	Sigma-70 factor, region 1.1
+PF08666	2	SAF domain
+PF09580	2	Sporulation lipoprotein YhcN/YlaJ (Spore_YhcN_YlaJ)
+PF00882	1	Zinc dependent phospholipase C
+PF02609	1	Exonuclease VII small subunit
+PF00970	3	Oxidoreductase FAD-binding domain
+PF03699	1	Uncharacterised protein family (UPF0182)
+PF12648	1	TcpE family
+PF00436	3	Single-strand binding protein family
+PF04459	1	Protein of unknown function (DUF512)
+PF00673	1	ribosomal L5P family C-terminus
+PF08858	1	IDEAL domain
+PF01807	1	CHC2 zinc finger
+PF13464	1	Domain of unknown function (DUF4115)
+PF01910	2	Domain of unknown function DUF77
+PF02554	2	Carbon starvation protein CstA
+PF13507	1	CobB/CobQ-like glutamine amidotransferase domain
+PF13531	1	Bacterial extracellular solute-binding protein
+PF07873	2	YabP family
+PF02645	1	Uncharacterised protein, DegV family COG1307
+PF13596	2	PAS domain
+PF00704	2	Glycosyl hydrolases family 18
+PF01520	8	N-acetylmuramoyl-L-alanine amidase
+PF13432	1	Tetratricopeptide repeat
+PF04432	1	Coenzyme F420 hydrogenase/dehydrogenase, beta subunit C terminus
+PF02673	1	Bacitracin resistance protein BacA
+PF04014	2	Antidote-toxin recognition MazE
+PF08281	4	Sigma-70, region 4
+PF12670	2	Protein of unknown function (DUF3792)
+PF02465	1	Flagellar hook-associated protein 2 C-terminus
+PF01252	1	Signal peptidase (SPase) II
+PF12255	1	Insecticide toxin TcdB middle/C-terminal region
+PF00456	1	Transketolase, thiamine diphosphate binding domain
+PF02583	2	Metal-sensitive transcriptional repressor
+PF01717	1	Cobalamin-independent synthase, Catalytic domain
+PF02879	5	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II
+PF05034	1	Methylaspartate ammonia-lyase N-terminus
+PF10385	1	RNA polymerase beta subunit external 1 domain
+PF00403	7	Heavy-metal-associated domain
+PF13492	1	GAF domain
+PF05192	2	MutS domain III
+PF11382	1	Protein of unknown function (DUF3186)
+PF07908	1	D-aminoacylase, C-terminal region
+PF12800	2	4Fe-4S binding domain
+PF00497	5	Bacterial extracellular solute-binding proteins, family 3
+PF01351	2	Ribonuclease HII
+PF01979	2	Amidohydrolase family
+PF04679	1	ATP dependent DNA ligase C terminal region
+PF04961	1	Formiminotransferase-cyclodeaminase
+PF01588	2	Putative tRNA binding domain
+PF00004	9	ATPase family associated with various cellular activities (AAA)
+PF11967	1	Recombination protein O N terminal
+PF00254	1	FKBP-type peptidyl-prolyl cis-trans isomerase
+PF01844	2	HNH endonuclease
+PF01867	3	CRISPR associated protein Cas1
+PF08352	6	Oligopeptide/dipeptide transporter, C-terminal region
+PF01272	2	Transcription elongation factor, GreA/GreB, C-term
+PF01039	1	Carboxyl transferase domain
+PF04565	1	RNA polymerase Rpb2, domain 3
+PF06968	4	Biotin and Thiamin Synthesis associated domain
+PF03796	1	DnaB-like helicase C terminal domain
+PF13579	3	Glycosyl transferase 4-like domain
+PF13167	1	GTP-binding GTPase N-terminal
+PF08459	1	UvrC Helix-hairpin-helix N-terminal
+PF05876	1	Phage terminase large subunit (GpA)
+PF07261	1	Replication initiation and membrane attachment
+PF00076	1	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
+PF03123	1	CAT RNA binding domain
+PF01895	8	PhoU domain
+PF00132	14	Bacterial transferase hexapeptide (six repeats)
+PF12847	2	Methyltransferase domain
+PF00486	9	Transcriptional regulatory protein, C terminal
+PF00501	4	AMP-binding enzyme
+PF00126	6	Bacterial regulatory helix-turn-helix protein, lysR family
+PF07831	1	Pyrimidine nucleoside phosphorylase C-terminal domain
+PF04026	1	SpoVG
+PF00636	2	Ribonuclease III domain
+PF10396	1	GTP-binding protein TrmE N-terminus
+PF06961	1	Protein of unknown function (DUF1294)
+PF06114	5	Domain of unknown function (DUF955)
+PF00410	1	Ribosomal protein S8
+PF02922	1	Carbohydrate-binding module 48 (Isoamylase N-terminal domain)
+PF05954	1	Phage late control gene D protein (GPD)
+PF13375	2	RnfC Barrel sandwich hybrid domain
+PF02597	3	ThiS family
+PF05746	2	DALR anticodon binding domain
+PF06723	2	MreB/Mbl protein
+PF08436	1	1-deoxy-D-xylulose 5-phosphate reductoisomerase C-terminal
+PF04909	2	Amidohydrolase
+PF01206	2	SirA-like protein
+PF05935	3	Arylsulfotransferase (ASST)
+PF02570	1	Precorrin-8X methylmutase
+PF00571	36	CBS domain
+PF02050	1	Flagellar FliJ protein
+PF06808	3	DctM-like transporters
+PF02769	5	AIR synthase related protein, C-terminal domain
+PF10648	1	Immunoglobulin-like domain of bacterial spore germination
+PF00702	4	haloacid dehalogenase-like hydrolase
+PF01526	1	Tn3 transposase DDE domain
+PF01975	1	Survival protein SurE
+PF02776	3	Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+PF13614	7	AAA domain
+PF11950	1	Protein of unknown function (DUF3467)
+PF02784	2	Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+PF01327	2	Polypeptide deformylase
+PF00189	1	Ribosomal protein S3, C-terminal domain
+PF13484	1	4Fe-4S double cluster binding domain
+PF00370	1	FGGY family of carbohydrate kinases, N-terminal domain
+PF10117	1	McrBC 5-methylcytosine restriction system component
+PF05167	1	Uncharacterised ACR (DUF711)
+PF08360	1	QacR-like protein, C-terminal region
+PF00924	1	Mechanosensitive ion channel
+PF08378	1	Nuclease-related domain
+PF01235	3	Sodium:alanine symporter family
+PF01084	1	Ribosomal protein S18
+PF04972	2	BON domain
+PF01258	1	Prokaryotic dksA/traR C4-type zinc finger
+PF03880	1	DbpA RNA binding domain
+PF00669	3	Bacterial flagellin N-terminal helical region
+PF00276	1	Ribosomal protein L23
+PF03601	3	Conserved hypothetical protein 698
+PF11734	1	TilS substrate C-terminal domain
+PF02463	2	RecF/RecN/SMC N terminal domain
+PF01316	1	Arginine repressor, DNA binding domain
+PF13636	1	pre-rRNA processing and ribosome biogenesis
+PF04321	1	RmlD substrate binding domain
+PF04860	1	Phage portal protein
+PF12627	1	Probable RNA and SrmB- binding site of polymerase A
+PF01248	2	Ribosomal protein L7Ae/L30e/S12e/Gadd45 family
+PF01423	1	LSM domain
+PF00925	1	GTP cyclohydrolase II
+PF12982	1	Protein of unknown function (DUF3866)
+PF04456	1	Protein of unknown function (DUF503)
+PF08245	6	Mur ligase middle domain
+PF01312	2	FlhB HrpN YscU SpaS Family
+PF03705	2	CheR methyltransferase, all-alpha domain
+PF02631	1	RecX family
+PF03947	1	Ribosomal Proteins L2, C-terminal domain
+PF13662	1	Toprim domain
+PF09986	1	Uncharacterized protein conserved in bacteria (DUF2225)
+PF02572	2	ATP:corrinoid adenosyltransferase BtuR/CobO/CobP
+PF06071	2	Protein of unknown function (DUF933)
+PF01144	3	Coenzyme A transferase
+PF00521	1	DNA gyrase/topoisomerase IV, subunit A
+PF12700	9	HlyD family secretion protein
+PF01817	1	Chorismate mutase type II
+PF13289	1	SIR2-like domain
+PF02585	1	GlcNAc-PI de-N-acetylase
+PF05107	2	Family of unknown function (DUF694)
+PF06508	1	ExsB
+PF01715	1	IPP transferase
+PF02082	2	Transcriptional regulator
+PF04316	1	Anti-sigma-28 factor, FlgM
+PF13371	2	Tetratricopeptide repeat
+PF02110	1	Hydroxyethylthiazole kinase family
+PF13490	2	Putative zinc-finger
+PF04607	1	Region found in RelA / SpoT proteins
+PF14285	1	Domain of unknown function (DUF4367)
+PF00438	1	S-adenosylmethionine synthetase, N-terminal domain
+PF04216	1	Protein involved in formate dehydrogenase formation
+PF01782	1	RimM N-terminal domain
+PF00013	3	KH domain
+PF01380	2	SIS domain
+PF08220	1	DeoR-like helix-turn-helix domain
+PF03717	3	Penicillin-binding Protein dimerisation domain
+PF03649	1	Uncharacterised protein family (UPF0014)
+PF00365	2	Phosphofructokinase
+PF03816	1	Cell envelope-related transcriptional attenuator domain
+PF06271	1	RDD family
+PF06368	1	Methylaspartate mutase E chain (MutE)
+PF12344	1	Ultra-violet resistance protein B
+PF02308	1	MgtC family
+PF08774	2	VRR-NUC domain
+PF01609	24	Transposase DDE domain
+PF13742	1	OB-fold nucleic acid binding domain
+PF12835	1	Integrase
+PF02350	2	UDP-N-acetylglucosamine 2-epimerase
+PF08235	1	LNS2 (Lipin/Ned1/Smp2)
+PF11638	1	DnaA N-terminal domain
+PF04282	1	Family of unknown function (DUF438)
+PF00310	1	Glutamine amidotransferases class-II
+PF00717	4	Peptidase S24-like
+PF03799	1	Cell division protein FtsQ
+PF01648	1	4'-phosphopantetheinyl transferase superfamily
+PF01513	1	ATP-NAD kinase
+PF02581	2	Thiamine monophosphate synthase/TENI
+PF03899	1	ATP synthase I chain
+PF01385	1	Probable transposase
+PF02195	2	ParB-like nuclease domain
+PF05188	1	MutS domain II
+PF00288	3	GHMP kinases N terminal domain
+PF13274	1	Protein of unknown function (DUF4065)
+PF00455	1	DeoR C terminal sensor domain
+PF08348	2	YheO-like PAS domain
+PF13241	1	Putative NAD(P)-binding
+PF10997	1	Protein of unknown function (DUF2837)
+PF00499	1	NADH-ubiquinone/plastoquinone oxidoreductase chain 6
+PF04198	1	Putative sugar-binding domain
+PF13408	2	Recombinase zinc beta ribbon domain
+PF01758	3	Sodium Bile acid symporter family
+PF04017	1	Domain of unknown function (DUF366)
+PF06418	1	CTP synthase N-terminus
+PF01747	1	ATP-sulfurylase
+PF00543	4	Nitrogen regulatory protein P-II
+PF14294	7	Domain of unknown function (DUF4372)
+PF01408	2	Oxidoreductase family, NAD-binding Rossmann fold
+PF00266	4	Aminotransferase class-V
+PF01628	1	HrcA protein C terminal domain
+PF00308	1	Bacterial dnaA  protein
+PF01964	1	ThiC family
+PF08859	2	DGC domain
+PF12844	10	Helix-turn-helix domain
+PF00886	1	Ribosomal protein S16
+PF13534	6	4Fe-4S dicluster domain
+PF01467	2	Cytidylyltransferase
+PF07235	1	Protein of unknown function (DUF1427)
+PF01228	5	Glycine radical
+PF02852	5	Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain
+PF00464	1	Serine hydroxymethyltransferase
+PF03750	1	Protein of unknown function (DUF310)
+PF05979	1	Bacterial protein of unknown function (DUF896)
+PF10109	1	Mu-like prophage FluMu protein gp41
+PF03961	1	Protein of unknown function (DUF342)
+PF01193	1	RNA polymerase Rpb3/Rpb11 dimerisation domain
+PF07549	1	SecD/SecF GG Motif
+PF04816	1	Family of unknown function (DUF633)
+PF10298	1	Sporulation Regulator WhiA N terminal
+PF07883	3	Cupin domain
+PF00682	5	HMGL-like
+PF02518	30	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+PF00149	5	Calcineurin-like phosphoesterase
+PF14045	1	YIEGIA protein
+PF13624	1	SurA N-terminal domain
+PF01678	2	Diaminopimelate epimerase
+PF00392	9	Bacterial regulatory proteins, gntR family
+PF12631	1	Catalytic cysteine-containing C-terminus of GTPase, MnmE
+PF01047	7	MarR family
+PF00800	1	Prephenate dehydratase
+PF05014	1	Nucleoside 2-deoxyribosyltransferase
+PF10057	2	Uncharacterized conserved protein (DUF2294)
+PF01170	1	Putative RNA methylase family UPF0020
+PF10979	1	Protein of unknown function (DUF2786)
+PF00771	1	FHIPEP family
+PF14034	1	Sporulation protein YtrH
+PF12729	4	Four helix bundle sensory module for signal transduction
+PF00137	1	ATP synthase subunit C
+PF01729	1	Quinolinate phosphoribosyl transferase, C-terminal domain
+PF03553	2	Na+/H+ antiporter family
+PF02896	3	PEP-utilising enzyme, TIM barrel domain
+PF01476	12	LysM domain
+PF00216	1	Bacterial DNA-binding protein
+PF01321	3	Creatinase/Prolidase N-terminal domain
+PF03060	2	Nitronate monooxygenase
+PF00873	2	AcrB/AcrD/AcrF family
+PF05201	1	Glutamyl-tRNAGlu reductase, N-terminal domain
+PF01336	5	OB-fold nucleic acid binding domain
+PF10996	1	Beta-Casp domain
+PF00507	1	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3
+PF13437	1	HlyD family secretion protein
+PF00582	2	Universal stress protein family
+PF13353	11	4Fe-4S single cluster domain
+PF00574	4	Clp protease
+PF10418	4	Iron-sulfur cluster binding domain of dihydroorotate dehydrogenase B
+PF00006	4	ATP synthase alpha/beta family, nucleotide-binding domain
+PF00709	1	Adenylosuccinate synthetase
+PF08447	3	PAS fold
+PF02374	1	Anion-transporting ATPase
+PF00813	1	FliP family
+PF02511	2	Thymidylate synthase complementing protein
+PF03960	1	ArsC family
+PF02599	2	Global regulator protein family
+PF12390	1	Selenocysteine synthase N terminal
+PF01571	1	Aminomethyltransferase folate-binding domain
+PF00958	1	GMP synthase C terminal domain
+PF00203	1	Ribosomal protein S19
+PF01837	1	Domain of unknown function DUF39
+PF02498	1	BRO family, N-terminal domain
+PF02261	2	Aspartate decarboxylase
+PF03460	4	Nitrite/Sulfite reductase ferredoxin-like half domain
+PF01281	1	Ribosomal protein L9, N-terminal domain
+PF12169	1	DNA polymerase III subunits gamma and tau domain III
+PF13793	1	N-terminal domain of ribose phosphate pyrophosphokinase
+PF13085	1	2Fe-2S iron-sulfur cluster binding domain
+PF02604	2	Antitoxin Phd_YefM, type II toxin-antitoxin system
+PF01177	1	Asp/Glu/Hydantoin racemase
+PF12690	1	Intracellular proteinase inhibitor
+PF13594	3	Amidohydrolase
+PF02368	5	Bacterial Ig-like domain (group 2)
+PF02482	1	Sigma 54 modulation protein / S30EA ribosomal protein
+PF00346	2	Respiratory-chain NADH dehydrogenase, 49 Kd subunit
+PF06831	1	Formamidopyrimidine-DNA glycosylase H2TH domain
+PF00724	1	NADH:flavin oxidoreductase / NADH oxidase family
+PF05635	9	S23 ribosomal protein
+PF05991	1	YacP-like NYN domain
+PF13551	1	Winged helix-turn helix
+PF02527	1	rRNA small subunit methyltransferase G
+PF00472	2	RF-1 domain
+PF01871	1	AMMECR1
+PF12673	5	Domain of unknown function (DUF3794)
+PF11987	1	Translation-initiation factor 2
+PF03186	1	CobD/Cbib protein
+PF02926	1	THUMP domain
+PF02224	1	Cytidylate kinase
+PF09269	1	Domain of unknown function (DUF1967)
+PF07479	1	NAD-dependent glycerol-3-phosphate dehydrogenase C-terminus
+PF00557	5	Metallopeptidase family M24
+PF06135	1	Bacterial protein of unknown function (DUF965)
+PF00481	1	Protein phosphatase 2C
+PF01739	2	CheR methyltransferase, SAM binding domain
+PF00092	1	von Willebrand factor type A domain
+PF07870	3	Protein of unknown function (DUF1657)
+PF03726	1	Polyribonucleotide nucleotidyltransferase, RNA binding domain
+PF02652	3	L-lactate permease
+PF05697	1	Bacterial trigger factor protein (TF)
+PF13365	3	Trypsin-like peptidase domain
+PF00330	4	Aconitase family (aconitate hydratase)
+PF02310	4	B12 binding domain
+PF05272	1	Virulence-associated protein E
+PF03449	1	Transcription elongation factor, N-terminal
+PF00226	2	DnaJ domain
+PF02771	5	Acyl-CoA dehydrogenase, N-terminal domain
+PF00163	1	Ribosomal protein S4/S9 N-terminal domain
+PF01933	1	Uncharacterised protein family UPF0052
+PF01052	4	Surface presentation of antigens (SPOA)
+PF05985	1	Ethanolamine ammonia-lyase light chain (EutC)
+PF12139	1	Adenosine-5'-phosphosulfate reductase beta subunit
+PF05198	1	Translation initiation factor IF-3, N-terminal domain
+PF05025	1	RbsD / FucU transport protein family
+PF13175	1	AAA ATPase domain
+PF04879	3	Molybdopterin oxidoreductase Fe4S4 domain
+PF00108	5	Thiolase, N-terminal domain
+PF02643	1	Uncharacterized ACR, COG1430
+PF13489	1	Methyltransferase domain
+PF02283	1	Cobinamide kinase / cobinamide phosphate guanyltransferase
+PF04883	1	Bacteriophage protein of unknown function (DUF646)
+PF03989	6	DNA gyrase C-terminal domain, beta-propeller
+PF02154	1	Flagellar motor switch protein FliM
+PF05742	1	NRDE protein
+PF11385	2	Protein of unknown function (DUF3189)
+PF13746	2	4Fe-4S dicluster domain
+PF02421	4	Ferrous iron transport protein B
+PF13567	1	Domain of unknown function (DUF4131)
+PF13031	1	Protein of unknown function (DUF3892)
+PF00625	1	Guanylate kinase
+PF00482	6	Type II secretion system (T2SS), protein F
+PF10942	1	Protein of unknown function (DUF2619)
+PF04463	1	Protein of unknown function (DUF523)
+PF11356	1	Type IV pilus biogenesis
+PF00338	1	Ribosomal protein S10p/S20e
+PF08543	1	Phosphomethylpyrimidine kinase
+PF13411	2	MerR HTH family regulatory protein
+PF00809	2	Pterin binding enzyme
+PF07532	2	Bacterial Ig-like domain (group 4)
+PF01197	1	Ribosomal protein L31
+PF02256	4	Iron hydrogenase small subunit
+PF13500	1	AAA domain
+PF01268	1	Formate--tetrahydrofolate ligase
+PF13188	6	PAS domain
+PF02882	1	Tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain
+PF04023	5	FeoA domain
+PF05116	1	Sucrose-6F-phosphate phosphohydrolase
+PF02361	4	Cobalt transport protein
+PF07698	1	7TM receptor with intracellular HD hydrolase
+PF01695	8	IstB-like ATP binding protein
+PF13932	1	GidA associated domain 3
+PF02386	2	Cation transport protein
+PF10728	2	Domain of unknown function (DUF2520)
+PF13522	2	Glutamine amidotransferase domain
+PF02601	1	Exonuclease VII, large subunit
+PF00691	2	OmpA family
+PF13240	1	zinc-ribbon domain
+PF00920	1	Dehydratase family
+PF02906	8	Iron only hydrogenase large subunit, C-terminal domain
+PF07070	1	SpoOM protein
+PF06463	1	Molybdenum Cofactor Synthesis C
+PF00298	1	Ribosomal protein L11, RNA binding domain
+PF01580	2	FtsK/SpoIIIE family
+PF12401	1	Protein of unknown function (DUF2662)
+PF03144	8	Elongation factor Tu domain 2
+PF03572	2	Peptidase family S41
+PF00902	1	Sec-independent protein translocase protein (TatC)
+PF08439	1	Oligopeptidase F
+PF02335	1	Cytochrome c552
+PF00113	2	Enolase, C-terminal TIM barrel domain
+PF00988	1	Carbamoyl-phosphate synthase small chain, CPSase domain
+PF10609	1	ParA/MinD ATPase like
+PF02589	5	Uncharacterised ACR, YkgG family COG1556
+PF00763	1	Tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain
+PF00343	2	Carbohydrate phosphorylase
+PF00012	4	Hsp70 protein
+PF04239	8	Protein of unknown function (DUF421)
+PF00872	1	Transposase, Mutator family
+PF01323	1	DSBA-like thioredoxin domain
+PF00309	1	Sigma-54 factor, Activator interacting domain (AID)
+PF07568	1	Histidine kinase
+PF01592	2	NifU-like N terminal domain
+PF02875	5	Mur ligase family, glutamate ligase domain
+PF01967	1	MoaC family
+PF02635	2	DsrE/DsrF-like family
+PF02576	1	Uncharacterised BCR, YhbC family COG0779
+PF02810	1	SEC-C motif
+PF00889	2	Elongation factor TS
+PF01556	1	DnaJ C terminal domain
+PF04472	2	Protein of unknown function (DUF552)
+PF05670	1	Domain of unknown function (DUF814)
+PF09827	3	CRISPR associated protein Cas2
+PF09989	2	CoA enzyme activase uncharacterised domain (DUF2229)
+PF02677	1	Uncharacterized BCR, COG1636
+PF07687	2	Peptidase dimerisation domain
+PF04087	1	Domain of unknown function (DUF389)
+PF01171	2	PP-loop family
+PF00696	5	Amino acid kinase family
+PF01930	3	Domain of unknown function DUF83
+PF10027	1	Predicted integral membrane protein (DUF2269)
+PF00185	2	Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain
+PF00984	1	UDP-glucose/GDP-mannose dehydrogenase family, central domain
+PF03975	1	CheD chemotactic sensory transduction
+PF01040	2	UbiA prenyltransferase family
+PF09335	5	SNARE associated Golgi protein
+PF02824	2	TGS domain
+PF01227	1	GTP cyclohydrolase I
+PF03486	2	HI0933-like protein
+PF09704	2	CRISPR-associated protein (Cas_Cas5)
+PF13508	1	Acetyltransferase (GNAT) domain
+PF02608	2	Basic membrane protein
+PF00375	2	Sodium:dicarboxylate symporter family
+PF00633	2	Helix-hairpin-helix motif
+PF05565	1	Siphovirus Gp157
+PF00490	1	Delta-aminolevulinic acid dehydratase
+PF12666	1	PrgI family protein
+PF02780	4	Transketolase, C-terminal domain
+PF00037	12	4Fe-4S binding domain
+PF09527	1	Putative F0F1-ATPase subunit (ATPase_gene1)
+PF12801	5	4Fe-4S binding domain
+PF01872	1	RibD C-terminal domain
+PF07736	1	Chorismate mutase type I
+PF00083	2	Sugar (and other) transporter
+PF04230	1	Polysaccharide pyruvyl transferase
+PF04552	1	Sigma-54, DNA binding domain
+PF14345	1	GDYXXLXY protein
+PF01541	1	GIY-YIG catalytic domain
+PF00085	4	Thioredoxin
+PF13641	1	Glycosyltransferase like family 2
+PF00733	2	Asparagine synthase
+PF09285	1	Elongation factor P, C-terminal
+PF01632	1	Ribosomal protein L35
+PF13581	1	Histidine kinase-like ATPase domain
+PF07486	5	Cell Wall Hydrolase
+PF00383	4	Cytidine and deoxycytidylate deaminase zinc-binding region
+PF08240	1	Alcohol dehydrogenase GroES-like domain
+PF01384	1	Phosphate transporter family
+PF00350	1	Dynamin family
+PF03453	2	MoeA N-terminal region (domain I and II)
+PF01063	1	Aminotransferase class IV
+PF04347	1	Flagellar biosynthesis protein, FliO
+PF00252	1	Ribosomal protein L16p/L10e
+PF13309	2	HTH domain
+PF01960	1	ArgJ family
+PF05437	1	Branched-chain amino acid transport protein (AzlD)
+PF01624	1	MutS domain I
+PF01906	1	Putative heavy-metal-binding
+PF07992	24	Pyridine nucleotide-disulphide oxidoreductase
+PF00860	4	Permease family
+PF03264	1	NapC/NirT cytochrome c family, N-terminal region
+PF01244	1	Membrane dipeptidase (Peptidase family M19)
+PF04397	1	LytTr DNA-binding domain
+PF00533	1	BRCA1 C Terminus (BRCT) domain
+PF00815	1	Histidinol dehydrogenase
+PF08222	1	CodY helix-turn-helix domain
+PF04892	2	VanZ like family
+PF00627	2	UBA/TS-N domain
+PF00117	6	Glutamine amidotransferase class-I
+PF08495	1	FIST N domain
+PF03309	2	Type III pantothenate kinase
+PF10589	4	NADH-ubiquinone oxidoreductase-F iron-sulfur binding region
+PF01435	3	Peptidase family M48
+PF00485	1	Phosphoribulokinase / Uridine kinase family
+PF02738	4	Molybdopterin-binding domain of aldehyde dehydrogenase
+PF13527	1	Acetyltransferase (GNAT) domain
+PF01043	1	SecA preprotein cross-linking domain
+PF13336	5	Acetyl-CoA hydrolase/transferase C-terminal domain
+PF02699	1	Preprotein translocase subunit
+PF05848	1	Firmicute transcriptional repressor of class III stress genes (CtsR)
+PF00411	1	Ribosomal protein S11
+PF01493	1	GXGXG motif
+PF00318	1	Ribosomal protein S2
+PF13555	1	P-loop containing region of AAA domain
+PF01761	1	3-dehydroquinate synthase
+PF01343	1	Peptidase family S49
+PF01207	1	Dihydrouridine synthase (Dus)
+PF12611	1	Protein of unknown function (DUF3766)
+PF01909	6	Nucleotidyltransferase domain
+PF08323	1	Starch synthase catalytic domain
+PF01262	1	Alanine dehydrogenase/PNT, C-terminal domain
+PF00512	22	His Kinase A (phospho-acceptor) domain
+PF00213	1	ATP synthase delta (OSCP) subunit
+PF04985	1	Phage tail tube protein FII
+PF04715	1	Anthranilate synthase component I, N terminal region
+PF01379	1	Porphobilinogen deaminase, dipyromethane cofactor binding domain
+PF06925	1	Monogalactosyldiacylglycerol (MGDG) synthase
+PF01957	1	NfeD-like C-terminal, partner-binding
+PF13544	3	Type IV pilin N-term methylation site GFxxxE
+PF12652	1	CotJB protein
+PF13190	1	PDGLE domain
+PF10150	1	Ribonuclease E/G family
+PF02772	1	S-adenosylmethionine synthetase, central domain
+PF13450	6	NAD(P)-binding Rossmann-like domain
+PF01923	2	Cobalamin adenosyltransferase
+PF08669	1	Glycine cleavage T-protein C-terminal barrel domain
+PF01850	2	PIN domain
+PF07195	1	Flagellar hook-associated protein 2 C-terminus
+PF00583	4	Acetyltransferase (GNAT) family
+PF00476	2	DNA polymerase family A
+PF00672	24	HAMP domain
+PF01597	4	Glycine cleavage H-protein
+PF07670	11	Nucleoside recognition
+PF06751	1	Ethanolamine ammonia lyase large subunit (EutB)
+PF12846	2	AAA-like domain
+PF13722	1	C-terminal domain on CstA (DUF4161)
+PF00460	5	Flagella basal body rod protein
+PF04452	1	RNA methyltransferase
+PF01148	1	Cytidylyltransferase family
+PF02785	1	Biotin carboxylase C-terminal domain
+PF13414	6	TPR repeat
+PF00591	3	Glycosyl transferase family, a/b domain
+PF14097	1	Stage V sporulation protein AE1
+PF04290	2	Tripartite ATP-independent periplasmic transporters, DctQ component
+PF02381	2	MraZ protein
+PF07786	1	Protein of unknown function (DUF1624)
+PF03418	2	Germination protease
+PF00395	27	S-layer homology domain
+PF08757	1	CotH protein
+PF13360	2	PQQ-like domain
+PF02132	1	RecR protein
+PF13185	8	GAF domain
+PF07733	2	Bacterial DNA polymerase III alpha subunit
+PF00950	1	ABC 3 transport family
